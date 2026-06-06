@@ -1,0 +1,1297 @@
+group,team,fifa_rank,category,shirt_number,name,club,position_detail,dob,age,badges,epithet
+A,Mexico,15,Coach,,Javier Aguirre,,Manager,,,,
+A,Mexico,15,Goalkeeper,1,Raúl Rangel,Guadalajara,Goalkeeper,2000-02-25,26,,
+A,Mexico,15,Goalkeeper,12,Carlos Acevedo,Santos Laguna,Goalkeeper,1996-04-19,30,,Vocal
+A,Mexico,15,Goalkeeper,13,Guillermo Ochoa,Limassol,Goalkeeper,1985-07-13,40,,Legend
+A,Mexico,15,Defender,2,Jorge Sánchez,PAOK,Defender,1997-12-10,28,defender,The long-distance runner
+A,Mexico,15,Defender,3,César Montes,Lokomotiv Moscow,Defender,1997-02-24,29,,Set-pieces threat
+A,Mexico,15,Defender,5,Johan Vásquez,Genoa,Defender,1998-10-22,27,,
+A,Mexico,15,Defender,15,Israel Reyes,América,Defender,2000-05-23,26,,
+A,Mexico,15,Defender,20,Mateo Chávez,AZ Alkmaar,Defender,2004-05-12,22,,
+A,Mexico,15,Defender,23,Jesús Gallardo,Toluca,Defender,1994-08-15,31,,
+A,Mexico,15,Midfielder,4,Edson Álvarez,Fenerbahce,Midfielder,1997-10-24,28,captain|midfielder,
+A,Mexico,15,Midfielder,6,Erik Lira,Cruz Azul,Midfielder,2000-05-08,26,,Modern holding midfielder
+A,Mexico,15,Midfielder,7,Luis Romo,Guadalajara,Midfielder,1995-06-05,31,,
+A,Mexico,15,Midfielder,8,Álvaro Fidalgo,Real Betis,Midfielder,1997-04-09,29,,Real Madrid graduate
+A,Mexico,15,Midfielder,17,Orbelín Pineda,AEK Athens,Midfielder,1996-03-24,30,,
+A,Mexico,15,Midfielder,18,Obed Vargas,Atlético Madrid,Midfielder,2005-08-05,20,,
+A,Mexico,15,Midfielder,19,Gilberto Mora,Club Tijuana,Midfielder,2008-10-14,17,breakout,On the rise
+A,Mexico,15,Midfielder,24,Luis Chávez,Dynamo Moscow,Midfielder,1996-01-15,30,,
+A,Mexico,15,Midfielder,26,Brian Gutiérrez,Guadalajara,Midfielder,2003-06-17,22,,
+A,Mexico,15,Forward,9,Raúl Jiménez,Fulham,Forward,1991-05-05,35,attacker,Back from the brink
+A,Mexico,15,Forward,10,Alexis Vega,Toluca,Forward,1997-11-25,28,,
+A,Mexico,15,Forward,11,Santiago Gimenez,Milan,Forward,2001-04-18,25,star,
+A,Mexico,15,Forward,14,Armando González,Guadalajara,Forward,2003-04-20,23,,‘The Ant’
+A,Mexico,15,Forward,16,Julián Quiñones,Al-Qadsiah,Forward,1997-03-24,29,,Fighting forward
+A,Mexico,15,Forward,21,César Huerta,Anderlecht,Forward (winger),2000-12-03,25,gem,Surprise call-up
+A,Mexico,15,Forward,22,Guillermo Martínez,Pumas,Forward,1995-03-15,31,,
+A,Mexico,15,Forward,25,Roberto Alvarado,Guadalajara,Forward (winger),1998-09-07,27,,
+A,South Korea,25,Coach,,Hong Myung-Bo,,Manager,,,,
+A,South Korea,25,Goalkeeper,1,Kim Seung-gyu,FC Tokyo,Goalkeeper,1990-09-30,35,,
+A,South Korea,25,Goalkeeper,12,Song Bum-keun,Jeonbuk Hyundai Motors,Goalkeeper,1997-10-15,28,,Good distribution
+A,South Korea,25,Goalkeeper,21,Jo Hyeon-woo,Ulsan HD FC,Goalkeeper,1991-09-25,34,,
+A,South Korea,25,Defender,2,Lee Han-beom,FC Midtjylland,Defender,2002-06-17,23,,
+A,South Korea,25,Defender,3,Lee Ki-hyuk,Gangwon FC,Defender,2000-07-07,25,,Fan of John O'Shea
+A,South Korea,25,Defender,4,Kim Min-jae,Bayern Munich,Defender,1996-11-15,29,defender,Defensive rock
+A,South Korea,25,Defender,5,Kim Tae-hyeon,Kashima Antlers,Defender,2000-09-17,25,,
+A,South Korea,25,Defender,13,Lee Tae-seok,Austria Wien,Defender,2002-07-28,23,,
+A,South Korea,25,Defender,14,Cho Wi-je,Jeonbuk Hyundai Motors,Defender,2001-08-25,24,,Late call-up
+A,South Korea,25,Defender,15,Kim Moon-hwan,Daejeon Hana Citizen,Defender,1995-08-01,30,,Former forward
+A,South Korea,25,Defender,16,Park Jin-seob,Zhejiang FC,Defender,1995-10-23,30,gem,Late bloomer
+A,South Korea,25,Defender,22,Seol Young-woo,Red Star Belgrade,Defender,1998-12-05,27,,
+A,South Korea,25,Defender,23,Jens Castrop,Borussia Mönchengladbach,Defender,2003-07-29,22,,
+A,South Korea,25,Midfielder,6,Hwang In-beom,Feyenoord,Midfielder,1996-09-20,29,,Key midfielder
+A,South Korea,25,Midfielder,8,Paik Seung-ho,Birmingham City,Midfielder,1997-03-17,29,,
+A,South Korea,25,Midfielder,10,Lee Jae-sung,Mainz 05,Midfielder,1992-08-10,33,,Legend
+A,South Korea,25,Midfielder,20,Yang Hyun-jun,Celtic,Midfielder,2002-05-25,24,,Tactically astute
+A,South Korea,25,Midfielder,24,Kim Jin-gyu,Jeonbuk Hyundai Motors,Midfielder,1997-02-24,29,,
+A,South Korea,25,Midfielder,26,Lee Dong-gyeong,Ulsan Hyundai,Midfielder,1997-09-20,28,,
+A,South Korea,25,Forward,7,Son Heung-min,Los Angeles FC,Forward,1992-07-08,33,star|captain|attacker,Superstar
+A,South Korea,25,Forward,9,Cho Gue-sung,FC Midtjylland,Forward,1998-01-25,28,,
+A,South Korea,25,Forward,11,Hwang Hee-chan,Wolves,Forward,1996-01-26,30,,Creative powerhouse
+A,South Korea,25,Forward,17,Bae Jun-ho,Stoke City,Forward (winger),2003-08-21,22,,
+A,South Korea,25,Forward,18,Oh Hyeon-gyu,Besiktas,Forward,2001-04-12,25,,
+A,South Korea,25,Forward,19,Lee Kang-in,Paris St-Germain,Forward,2001-02-19,25,midfielder,
+A,South Korea,25,Forward,25,Eom Ji-sung,Swansea City,Forward (winger),2002-05-09,24,,One to watch
+A,Czechia,41,Coach,,Miroslav Koubek,,Manager,,,,
+A,Czechia,41,Goalkeeper,1,Matej Kovar,PSV Eindhoven,Goalkeeper,2000-05-17,26,,
+A,Czechia,41,Goalkeeper,16,Jindrich Stanek,Slavia Prague,Goalkeeper,1996-04-27,30,,'El Tigre'
+A,Czechia,41,Goalkeeper,23,Lukas Hornicek,Braga,Goalkeeper,2002-07-13,23,,
+A,Czechia,41,Defender,2,David Zima,Slavia Prague,Defender,2000-11-08,25,defender,
+A,Czechia,41,Defender,3,Tomas Holes,Slavia Prague,Defender,1993-03-31,33,captain,Quiet leader
+A,Czechia,41,Defender,4,Robin Hranac,Hoffenheim,Defender,2000-01-29,26,,High pain threshold
+A,Czechia,41,Defender,5,Vladimir Coufal,Hoffenheim,Defender,1992-08-22,33,,Self-confessed 'mad man'
+A,Czechia,41,Defender,6,Stepan Chaloupek,Slavia Prague,Defender,2003-03-08,23,,
+A,Czechia,41,Defender,7,Ladislav Krejci,Wolves,Defender,1999-04-20,27,,Decisive
+A,Czechia,41,Defender,14,David Jurasek,Slavia Prague,Defender,2000-08-07,25,,
+A,Czechia,41,Defender,20,Jaroslav Zeleny,Sparta Prague,Defender,1992-08-20,33,,Angry driver
+A,Czechia,41,Defender,21,David Doudera,Slavia Prague,Defender,1998-05-31,28,,
+A,Czechia,41,Midfielder,8,Vladimír Darida,Hradec Kralove,Midfielder,1990-08-08,35,,
+A,Czechia,41,Midfielder,12,Lukas Cerv,Viktoria Plzen,Midfielder,2001-04-10,25,,
+A,Czechia,41,Midfielder,15,Pavel Sulc,Lyon,Midfielder,2000-12-29,25,gem,Going places
+A,Czechia,41,Midfielder,18,Michal Sadilek,Slavia Prague,Midfielder,1999-05-31,27,,Adventurous
+A,Czechia,41,Midfielder,22,Tomas Soucek,West Ham,Midfielder,1995-02-27,31,midfielder,Midfield engine
+A,Czechia,41,Midfielder,24,Alexandr Sojka,Viktoria Plzen,Midfielder,2003-04-02,23,,
+A,Czechia,41,Midfielder,25,Hugo Sochurek,Sparta Prague,Midfielder,2008-06-07,18,breakout,Wonderkid
+A,Czechia,41,Midfielder,26,Denis Visinsky,Viktoria Plzen,Midfielder,2003-03-21,23,,
+A,Czechia,41,Forward,9,Adam Hlozek,Hoffenheim,Forward,2002-07-25,23,attacker|star,Fan of lions
+A,Czechia,41,Forward,10,Patrik Schick,Bayer Leverkusen,Forward,1996-01-24,30,,
+A,Czechia,41,Forward,11,Jan Kuchta,Sparta Prague,Forward,1997-01-08,29,,Loves chickens
+A,Czechia,41,Forward,13,Mojmir Chytil,Slavia Prague,Forward,1999-04-29,27,,
+A,Czechia,41,Forward,17,Lukas Provod,Slavia Prague,Forward (winger),1996-10-23,29,,
+A,Czechia,41,Forward,19,Tomas Chory,Slavia Prague,Forward,1995-01-26,31,,Hot-headed
+A,South Africa,60,Coach,,Hugo Broos,,Manager,,,,
+A,South Africa,60,Goalkeeper,1,Ronwen Williams,Mamelodi Sundowns,Goalkeeper,1992-01-21,34,,No1 goalkeeper
+A,South Africa,60,Goalkeeper,16,Sipho Chaine,Orlando Pirates,Goalkeeper,1996-12-14,29,,
+A,South Africa,60,Goalkeeper,22,Ricardo Goss,Siwelele FC,Goalkeeper,1994-04-02,32,,
+A,South Africa,60,Defender,2,Thabang Matuludi,Polokwane City,Defender,1999-01-14,27,defender,
+A,South Africa,60,Defender,3,Khulumani Ndamane,Mamelodi Sundowns,Defender,2004-02-05,22,,
+A,South Africa,60,Defender,14,Mbekezeli Mbokazi,Chicago Fire,Defender,2005-09-19,20,,Rapid riser
+A,South Africa,60,Defender,18,Samukele Kabini,Molde,Defender,2004-03-15,22,,
+A,South Africa,60,Defender,19,Nkosinathi Sibisi,Orlando Pirates,Defender,1995-09-22,30,,
+A,South Africa,60,Defender,20,Khuliso Mudau,Mamelodi Sundowns,Defender,1995-04-26,31,,Natural leader
+A,South Africa,60,Defender,21,Ime Okon,Hannover 96,Defender,2004-02-20,22,,
+A,South Africa,60,Defender,24,Olwethu Makhanya,Philadelphia Union,Defender,2004-04-30,22,breakout,Newcomer
+A,South Africa,60,Defender,25,Kamogelo Sebelebele,Orlando Pirates,Defender,2002-07-21,23,,Electric
+A,South Africa,60,Defender,26,Bradley Cross,Kaizer Chiefs,Defender,2001-01-30,25,,
+A,South Africa,60,Midfielder,4,Teboho Mokoena,Mamelodi Sundowns,Midfielder,1997-01-24,29,midfielder,Essential
+A,South Africa,60,Midfielder,5,Thalente Mbatha,Orlando Pirates,Midfielder,2000-03-06,26,,All-action midfielder
+A,South Africa,60,Midfielder,6,Aubrey Modiba,Mamelodi Sundowns,Midfielder,1995-07-22,30,,'The Postman'
+A,South Africa,60,Midfielder,13,Sphephelo Sithole,CD Tondela,Midfielder,1999-03-03,27,,
+A,South Africa,60,Midfielder,23,Jayden Adams,Mamelodi Sundowns,Midfielder,2001-05-05,25,gem,Going places
+A,South Africa,60,Forward,7,Oswin Appollis,Orlando Pirates,Forward (winger),2001-08-25,24,,
+A,South Africa,60,Forward,8,Tshepang Moremi,Orlando Pirates,Forward (winger),2000-10-02,25,,Former sprinter
+A,South Africa,60,Forward,9,Lyle Foster,Burnley,Forward,2000-09-03,25,attacker|star,Goal threat
+A,South Africa,60,Forward,10,Relebohile Mofokeng,Orlando Pirates,Forward,2004-10-23,21,,
+A,South Africa,60,Forward,11,Themba Zwane,Mamelodi Sundowns,Forward,1989-08-03,36,captain,Veteran
+A,South Africa,60,Forward,12,Thapelo Maseko,Mamelodi Sundowns,Forward (winger),2003-11-11,22,,
+A,South Africa,60,Forward,15,Iqraam Rayners,Mamelodi Sundowns,Forward,1995-12-19,30,,
+A,South Africa,60,Forward,17,Evidence Makgopa,Orlando Pirates,Forward,2000-06-05,26,,
+B,Switzerland,19,Coach,,Murat Yakin,,Manager,,,,
+B,Switzerland,19,Goalkeeper,1,Gregor Kobel,Borussia Dortmund,Goalkeeper,1997-12-06,28,,No 1 goalkeeper
+B,Switzerland,19,Goalkeeper,12,Yvon Mvogo,Lorient,Goalkeeper,1994-06-06,32,,
+B,Switzerland,19,Goalkeeper,21,Marvin Keller,Young Boys,Goalkeeper,2002-07-03,23,,
+B,Switzerland,19,Defender,2,Miro Muheim,Hamburg,Defender,1998-03-24,28,,
+B,Switzerland,19,Defender,3,Silvan Widmer,Mainz,Defender,1993-03-05,33,,
+B,Switzerland,19,Defender,4,Nico Elvedi,Borussia Mönchengladbach,Defender,1996-09-30,29,,'The Kinfisher'
+B,Switzerland,19,Defender,5,Manuel Akanji,Inter,Defender,1995-07-19,30,defender,Defensive leader
+B,Switzerland,19,Defender,13,Ricardo Rodriguez,Real Betis,Defender,1992-08-25,33,,
+B,Switzerland,19,Defender,18,Eray Cömert,Valencia,Defender,1998-02-04,28,,
+B,Switzerland,19,Defender,24,Aurèle Amenda,Eintracht Frankfurt,Defender,2003-07-31,22,,
+B,Switzerland,19,Defender,25,Luca Jaquez,Stuttgart,Defender,2003-06-02,23,,
+B,Switzerland,19,Midfielder,6,Denis Zakaria,Monaco,Midfielder,1996-11-20,29,,
+B,Switzerland,19,Midfielder,8,Remo Freuler,Bologna,Midfielder,1992-04-15,34,,Running machine
+B,Switzerland,19,Midfielder,10,Granit Xhaka,Sunderland,Midfielder,1992-09-27,33,star|captain|midfielder,Captain
+B,Switzerland,19,Midfielder,14,Ardon Jashari,Milan,Midfielder,2002-07-30,23,,
+B,Switzerland,19,Midfielder,15,Djibril Sow,Sevilla,Midfielder,1997-02-06,29,,
+B,Switzerland,19,Midfielder,16,Christian Fassnacht,Young Boys,Midfielder,1993-11-11,32,gem,Surprise call-up
+B,Switzerland,19,Midfielder,20,Michel Aebischer,Pisa,Midfielder,1997-01-06,29,,Linguist
+B,Switzerland,19,Midfielder,22,Fabian Rieder,Augsburg,Midfielder,2002-02-16,24,,
+B,Switzerland,19,Forward,7,Breel Embolo,Rennes,Forward,1997-02-14,29,attacker,Main goalscorer
+B,Switzerland,19,Forward,9,Johan Manzambi,Freiburg,Forward,2005-10-14,20,breakout,On the rise
+B,Switzerland,19,Forward,11,Dan Ndoye,Nottingham Forest,Forward,2000-10-25,25,,
+B,Switzerland,19,Forward,17,Ruben Vargas,Sevilla,Forward,1998-08-05,27,,
+B,Switzerland,19,Forward,19,Noah Okafor,Leeds,Forward,2000-05-24,26,,
+B,Switzerland,19,Forward,23,Zeki Amdouni,Burnley,Forward,2000-12-04,25,,Messi-admirer
+B,Switzerland,19,Forward,26,Cedric Itten,Fortuna Düsseldorf,Forward,1996-12-27,29,,
+B,Canada,30,Coach,,Jesse Marsch,,Manager,,,,
+B,Canada,30,Goalkeeper,1,Dayne St. Clair,Inter Miami,Goalkeeper,1997-05-09,29,,Gentle giant
+B,Canada,30,Goalkeeper,16,Maxime Crépeau,Orlando City,Goalkeeper,1994-05-11,32,,Multilinguist
+B,Canada,30,Goalkeeper,18,Owen Goodman,Crystal Palace,Goalkeeper,2003-11-27,22,,
+B,Canada,30,Defender,2,Alistair Johnston,Celtic,Defender,1998-10-08,27,,Loves a tackle
+B,Canada,30,Defender,3,Alfie Jones,Middlesbrough,Defender,1997-10-07,28,,
+B,Canada,30,Defender,4,Luc De Fougerolles,Fulham,Defender,2005-10-12,20,,
+B,Canada,30,Defender,5,Joel Waterman,Chicago Fire,Defender,1996-01-24,30,,History maker
+B,Canada,30,Defender,13,Derek Cornelius,Marseille,Defender,1997-11-25,28,,Old-school
+B,Canada,30,Defender,15,Moïse Bombito,Nice,Defender,2000-03-30,26,,
+B,Canada,30,Defender,19,Alphonso Davies,Bayern Munich,Defender,2000-11-02,25,star|captain|defender,Superstar
+B,Canada,30,Defender,22,Richie Laryea,Toronto FC,Defender,1995-01-07,31,,
+B,Canada,30,Defender,23,Niko Sigur,Hajduk Split,Defender,2003-09-09,22,,
+B,Canada,30,Midfielder,6,Mathieu Choinière,Los Angeles FC,Midfielder,1999-02-07,27,midfielder,Set-piece specialist
+B,Canada,30,Midfielder,7,Stephen Eustáquio,Porto,Midfielder,1996-12-21,29,,A coach's dream
+B,Canada,30,Midfielder,8,Ismaël Koné,Sassuolo,Midfielder,2002-06-16,23,breakout|gem,Going places
+B,Canada,30,Midfielder,14,Jacob Shaffelburg,Los Angeles FC,Midfielder,1999-11-26,26,,
+B,Canada,30,Midfielder,21,Jonathan Osorio,Toronto FC,Midfielder,1992-06-12,33,,
+B,Canada,30,Midfielder,25,Nathan-Dylan Saliba,Anderlecht,Midfielder,2004-02-07,22,,
+B,Canada,30,Forward,9,Cyle Larin,Mallorca,Forward,1995-04-17,31,,Cult hero
+B,Canada,30,Forward,10,Jonathan David,Juventus,Forward,2000-01-14,26,attacker,Main goalscorer
+B,Canada,30,Forward,11,Liam Millar,Hull City,Forward,1999-09-27,26,,
+B,Canada,30,Forward,12,Tani Oluwaseyi,Villarreal,Forward,2000-05-15,26,,
+B,Canada,30,Forward,17,Tajon Buchanan,Villarreal,Forward (winger),1999-02-08,27,,Unpredictable
+B,Canada,30,Forward,20,Ali Ahmed,Norwich City,Forward (winger),2000-10-10,25,,
+B,Canada,30,Forward,24,Promise David,Union Saint-Gilloise,Forward,2001-07-03,24,,
+B,Canada,30,Forward,26,Marcelo Flores,Tigres UANL,Forward (winger),2003-10-01,22,,
+B,Bosnia and Herzegovina,65,Coach,,Sergej Barbarez,,Manager,,,,
+B,Bosnia and Herzegovina,65,Goalkeeper,1,Nikola Vasilj,St Pauli,Goalkeeper,1995-12-02,30,,Long-term keeper
+B,Bosnia and Herzegovina,65,Goalkeeper,12,Mladen Jurkas,Borac Banja Luka,Goalkeeper,2007-10-07,18,gem,Late call-up
+B,Bosnia and Herzegovina,65,Goalkeeper,22,Martin Zlomislic,HNK Rijeka,Goalkeeper,1998-08-16,27,,
+B,Bosnia and Herzegovina,65,Defender,2,Nihad Mujakic,Gaziantep,Defender,1998-04-15,28,defender,
+B,Bosnia and Herzegovina,65,Defender,3,Dennis Hadzikadunic,Sampdoria,Defender,1998-07-09,27,,
+B,Bosnia and Herzegovina,65,Defender,4,Tarik Muharemovic,Sassuolo,Defender,2003-02-28,23,,Mature beyond his years
+B,Bosnia and Herzegovina,65,Defender,5,Sead Kolasinac,Atalanta,Defender,1993-06-20,32,,Former nightclub bouncer
+B,Bosnia and Herzegovina,65,Defender,7,Amar Dedic,Benfica,Defender,2002-08-18,23,,
+B,Bosnia and Herzegovina,65,Defender,18,Nikola Katic,Schalke,Defender,1996-10-10,29,,Old-school
+B,Bosnia and Herzegovina,65,Defender,21,Stjepan Radeljic,HNK Rijeka,Defender,1997-09-05,28,,
+B,Bosnia and Herzegovina,65,Defender,24,Nidal Celik,Lens,Defender,2006-07-17,19,,Next generation
+B,Bosnia and Herzegovina,65,Midfielder,6,Benjamin Tahirovic,Brøndby,Midfielder,2003-03-03,23,midfielder,
+B,Bosnia and Herzegovina,65,Midfielder,8,Armin Gigovic,Young Boys,Midfielder,2002-04-06,24,,
+B,Bosnia and Herzegovina,65,Midfielder,13,Ivan Basic,Astana,Midfielder,2002-04-30,24,,
+B,Bosnia and Herzegovina,65,Midfielder,14,Ivan Sunjic,Pafos,Midfielder,1996-10-19,29,,
+B,Bosnia and Herzegovina,65,Midfielder,16,Amir Hadziahmetovic,Hull City,Midfielder,1997-03-08,29,,Tactically disciplined
+B,Bosnia and Herzegovina,65,Midfielder,17,Dzenis Burnic,Karlsruhe,Midfielder,1998-05-22,28,,
+B,Bosnia and Herzegovina,65,Midfielder,26,Ermin Mahmic,Slovan Liberec,Midfielder,2005-03-14,21,,New recruit
+B,Bosnia and Herzegovina,65,Forward,9,Samed Bazdar,Real Zaragoza,Forward,2004-01-31,22,attacker|star,
+B,Bosnia and Herzegovina,65,Forward,10,Ermedin Demirovic,Stuttgart,Forward,1998-03-25,28,,Keeps promises
+B,Bosnia and Herzegovina,65,Forward,11,Edin Dzeko,Schalke,Forward,1986-03-17,40,,All-time great
+B,Bosnia and Herzegovina,65,Forward,15,Amar Memic,Viktoria Plzen,Forward (winger),2001-01-20,25,,Hard-working
+B,Bosnia and Herzegovina,65,Forward,19,Kerim Alajbegovic,Bayer Leverkusen,Forward (winger),2007-09-21,18,breakout,Face of the future
+B,Bosnia and Herzegovina,65,Forward,20,Esmir Bajraktarevic,PSV Eindhoven,Forward (winger),2005-03-10,21,,Proud Bosnian
+B,Bosnia and Herzegovina,65,Forward,23,Haris Tabakovic,Borussia Mönchengladbach,Forward,1994-06-20,31,,
+B,Bosnia and Herzegovina,65,Forward,25,Jovo Lukic,Universitatea Cluj,Forward,1998-11-28,27,,
+B,Qatar,55,Coach,,Julen Lopetegui,,Manager,,,,
+B,Qatar,55,Goalkeeper,1,Mahmoud Abunada,Al-Rayyan,Goalkeeper,2000-02-05,26,,
+B,Qatar,55,Goalkeeper,21,Salah Zakaria,Al-Duhail,Goalkeeper,1999-04-24,27,,
+B,Qatar,55,Goalkeeper,22,Meshaal Barsham,Al-Sadd,Goalkeeper,1998-02-14,28,,Penalty specialist
+B,Qatar,55,Defender,2,Pedro Miguel,Al-Sadd,Defender,1990-08-06,35,defender,Versatile
+B,Qatar,55,Defender,3,Lucas Mendes,Al-Wakrah,Defender,1990-07-03,35,,
+B,Qatar,55,Defender,4,Issa Laye,Al-Arabi,Defender,1997-12-22,28,,
+B,Qatar,55,Defender,13,Ayoub Alawi,Al-Gharafa,Defender,2005-03-11,21,,Late addition
+B,Qatar,55,Defender,14,Homam Ahmed,Cultural Leonesa,Defender,1999-08-25,26,,
+B,Qatar,55,Defender,16,Boualem Khoukhi,Al-Sadd,Defender,1990-07-09,35,,Former winger
+B,Qatar,55,Defender,18,Sultan Al-Brake,Al-Duhail,Defender,1996-04-07,30,,
+B,Qatar,55,Defender,25,Hashmi Hussein,Al-Arabi,Defender,2003-08-15,22,,Sparked controversy
+B,Qatar,55,Midfielder,5,Jassem Gaber,Al-Rayyan,Midfielder,2002-02-20,24,,
+B,Qatar,55,Midfielder,6,Abdulaziz Hatem,Al-Rayyan,Midfielder,1990-10-28,35,captain,Veteran
+B,Qatar,55,Midfielder,12,Karim Boudiaf,Al-Duhail,Midfielder,1990-09-16,35,,Game-changer
+B,Qatar,55,Midfielder,20,Ahmed Fathy,Al-Arabi,Midfielder,1993-01-25,33,,
+B,Qatar,55,Midfielder,23,Assim Madibo,Al-Wakrah,Midfielder,1996-10-22,29,midfielder,Running machine
+B,Qatar,55,Midfielder,26,Mohamed Al-Mannai,Al-Shamal,Midfielder,2003-10-30,22,,
+B,Qatar,55,Forward,7,Ahmed Alaaeldin,Al-Rayyan,Forward,1993-01-31,33,attacker,
+B,Qatar,55,Forward,8,Edmilson Junior,Al-Duhail,Forward,1994-08-19,31,,
+B,Qatar,55,Forward,9,Mohammed Muntari,Al-Gharafa,Forward,1993-12-20,32,,
+B,Qatar,55,Forward,10,Hassan Al-Haydos,Al-Sadd,Forward,1990-12-11,35,,Leader
+B,Qatar,55,Forward,11,Akram Afif,Al-Sadd,Forward,1996-11-18,29,star,Super star
+B,Qatar,55,Forward,15,Yusuf Abdurisag,Al-Wakrah,Forward,1999-08-06,26,,Tricky winger
+B,Qatar,55,Forward,17,Ahmed Al-Ganehi,Al-Gharafa,Forward,2000-09-22,25,,
+B,Qatar,55,Forward,19,Almoez Ali,Al-Duhail,Forward,1996-08-19,29,,All-time leading goalscorer
+B,Qatar,55,Forward,24,Tahsin Mohammed Jamshid,Al-Duhail SC,Forward,2006-06-16,19,breakout|gem,
+C,Brazil,6,Coach,,Carlo Ancelotti,,Manager,,,,
+C,Brazil,6,Goalkeeper,1,Alisson,Liverpool,Goalkeeper,1992-10-02,33,,No 1 goalkeeper
+C,Brazil,6,Goalkeeper,12,Weverton,Grêmio,Goalkeeper,1987-12-13,38,,
+C,Brazil,6,Goalkeeper,23,Ederson,Fenerbahce,Goalkeeper,1993-08-17,32,,
+C,Brazil,6,Defender,2,Wesley,Roma,Defender,2003-09-06,22,,
+C,Brazil,6,Defender,3,Gabriel Magalhães,Arsenal,Defender,1997-12-19,28,,Defensive rock
+C,Brazil,6,Defender,4,Marquinhos,Paris St-Germain,Defender,1994-05-14,32,captain|defender,Natural leader
+C,Brazil,6,Defender,6,Alex Sandro,Flamengo,Defender,1991-01-26,35,,Trophy collector
+C,Brazil,6,Defender,13,Danilo,Flamengo,Defender,1991-07-15,34,,Bookworm
+C,Brazil,6,Defender,14,Bremer,Juventus,Defender,1997-03-18,29,,
+C,Brazil,6,Defender,15,Léo Pereira,Flamengo,Defender,1996-01-31,30,,
+C,Brazil,6,Defender,16,Douglas Santos,Zenit St Petersburg,Defender,1994-03-22,32,,
+C,Brazil,6,Defender,24,Roger Ibañez,Al-Ahli,Defender,1998-11-23,27,,
+C,Brazil,6,Midfielder,5,Casemiro,Manchester United,Midfielder,1992-02-23,34,,Midfield engine
+C,Brazil,6,Midfielder,8,Bruno Guimarães,Newcastle,Midfielder,1997-11-16,28,midfielder,Pass master
+C,Brazil,6,Midfielder,17,Fabinho,Al-Ittihad,Midfielder,1993-10-23,32,,
+C,Brazil,6,Midfielder,18,Danilo Santos,Botafogo,Midfielder,2001-04-29,25,,
+C,Brazil,6,Midfielder,20,Lucas Paquetá,Flamengo,Midfielder,1997-08-27,28,,
+C,Brazil,6,Forward,7,Vinícius Júnior,Real Madrid,Forward,2000-07-12,25,star|attacker,Super star
+C,Brazil,6,Forward,9,Matheus Cunha,Manchester United,Forward,1999-05-27,27,,
+C,Brazil,6,Forward,10,Neymar,Santos,Forward,1992-02-05,34,,Legend
+C,Brazil,6,Forward,11,Raphinha,Barcelona,Forward (winger),1996-12-14,29,,
+C,Brazil,6,Forward,19,Endrick,Real Madrid,Forward,2006-07-21,19,breakout|gem,
+C,Brazil,6,Forward,21,Luiz Henrique,Zenit St Petersburg,Forward,2001-01-02,25,,
+C,Brazil,6,Forward,22,Gabriel Martinelli,Arsenal,Forward,2001-06-18,24,,
+C,Brazil,6,Forward,25,Igor Thiago,Brentford,Forward,2001-06-26,24,,
+C,Brazil,6,Forward,26,Rayan,Bournemouth,Forward,2006-08-03,19,,Teenage sensation
+C,Morocco,8,Coach,,Mohamed Ouahbi,,Manager,,,,
+C,Morocco,8,Goalkeeper,1,Yassine Bounou,Al-Hilal,Goalkeeper,1991-04-05,35,,No 1 goalkeeper
+C,Morocco,8,Goalkeeper,12,Munir El Kajoui,RS Berkane,Goalkeeper,1989-05-10,37,,
+C,Morocco,8,Goalkeeper,22,Ahmed Reda Tagnaouti,AS FAR Rabat,Goalkeeper,1996-04-05,30,,Comeback kid
+C,Morocco,8,Defender,2,Achraf Hakimi,Paris St-Germain,Defender,1998-11-04,27,star|captain|defender,Key player
+C,Morocco,8,Defender,3,Noussair Mazraoui,Manchester United,Defender,1997-11-14,28,,
+C,Morocco,8,Defender,5,Nayef Aguerd,Marseille,Defender,1996-03-30,30,,
+C,Morocco,8,Defender,13,Zakaria El Ouahdi,Genk,Defender,2001-12-31,24,,
+C,Morocco,8,Defender,14,Issa Diop,Fulham,Defender,1997-01-09,29,,New recruit
+C,Morocco,8,Defender,18,Chadi Riad,Crystal Palace,Defender,2003-06-17,22,,
+C,Morocco,8,Defender,19,Youssef Belammari,Al Ahly,Defender,1998-09-20,27,,
+C,Morocco,8,Defender,25,Redouane Halhal,Mechelen,Defender,2003-03-05,23,,
+C,Morocco,8,Defender,26,Anass Salah-Eddine,Roma,Defender,2002-01-18,24,,
+C,Morocco,8,Midfielder,4,Sofyan Amrabat,Real Betis,Midfielder,1996-08-21,29,,The Gladiator'
+C,Morocco,8,Midfielder,6,Ayyoub Bouaddi,Lille,Midfielder,2007-10-02,18,breakout|gem,Physics student
+C,Morocco,8,Midfielder,8,Azzedine Ounahi,Girona,Midfielder,2000-04-19,26,,‘The Bee’
+C,Morocco,8,Midfielder,11,Ismael Saibari,PSV Eindhoven,Midfielder,2001-01-28,25,,
+C,Morocco,8,Midfielder,15,Samir El Mourabet,Strasbourg,Midfielder,2005-10-06,20,,Former futsal player
+C,Morocco,8,Midfielder,16,Gessime Yassine,Strasbourg,Midfielder,2005-11-22,20,,Natural-born dribbler
+C,Morocco,8,Midfielder,23,Bilal El Khannouss,Stuttgart,Midfielder,2004-05-10,22,,
+C,Morocco,8,Midfielder,24,Neil El Aynaoui,Roma,Midfielder,2001-07-02,24,,Son of a tennis legend
+C,Morocco,8,Forward,7,Chemsdine Talbi,Sunderland,Forward (winger),2005-05-09,21,attacker,
+C,Morocco,8,Forward,9,Soufiane Rahimi,Al Ain,Forward,1996-06-02,30,,
+C,Morocco,8,Forward,10,Brahim Díaz,Real Madrid,Forward,1999-08-03,26,midfielder,Super star
+C,Morocco,8,Forward,17,Abdessamad Ezzalzouli,Real Betis,Forward (winger),2001-12-17,24,,
+C,Morocco,8,Forward,20,Ayoub El Kaabi,Olympiakos,Forward,1993-06-25,32,,
+C,Morocco,8,Forward,21,Ayoube Amaimouni,Eintracht Frankfurt,Forward (winger),2004-11-30,21,,Wild card
+C,Scotland,43,Coach,,Steve Clarke,,Manager,,,,
+C,Scotland,43,Goalkeeper,1,Angus Gunn,Nottingham Forest,Goalkeeper,1996-01-22,30,,
+C,Scotland,43,Goalkeeper,12,Liam Kelly,Rangers,Goalkeeper,1996-01-23,30,,
+C,Scotland,43,Goalkeeper,21,Craig Gordon,Hearts,Goalkeeper,1982-12-31,43,,Veteran
+C,Scotland,43,Defender,2,Aaron Hickey,Brentford,Defender,2002-06-10,24,defender,
+C,Scotland,43,Defender,3,Andy Robertson,Liverpool,Defender,1994-03-11,32,captain,Captain
+C,Scotland,43,Defender,5,Grant Hanley,Hibernian,Defender,1991-11-20,34,,
+C,Scotland,43,Defender,6,Kieran Tierney,Celtic,Defender,1997-06-05,29,,
+C,Scotland,43,Defender,13,Jack Hendry,At-Ettifaq,Defender,1995-05-07,31,,
+C,Scotland,43,Defender,15,John Souttar,Rangers,Defender,1996-09-25,29,,
+C,Scotland,43,Defender,16,Dominic Hyam,Wrexham,Defender,1995-12-20,30,,
+C,Scotland,43,Defender,22,Nathan Patterson,Everton,Defender,2001-10-16,24,,
+C,Scotland,43,Defender,24,Anthony Ralston,Celtic,Defender,1998-11-16,27,,'The bricklayer'
+C,Scotland,43,Defender,26,Scott McKenna,Dinamo Zagreb,Defender,1996-11-12,29,,
+C,Scotland,43,Midfielder,4,Scott McTominay,Napoli,Midfielder,1996-12-08,29,star|midfielder,Star player
+C,Scotland,43,Midfielder,7,John McGinn,Aston Villa,Midfielder,1994-10-18,31,,All-action
+C,Scotland,43,Midfielder,8,Tyler Fletcher,Manchester United,Midfielder,2007-03-19,19,breakout|gem,Late call-up
+C,Scotland,43,Midfielder,11,Ryan Christie,Bournemouth,Midfielder,1995-02-22,31,,
+C,Scotland,43,Midfielder,19,Lewis Ferguson,Bologna,Midfielder,1999-08-24,26,,Goal threat
+C,Scotland,43,Midfielder,23,Kenny McLean,Norwich City,Midfielder,1992-01-08,34,,Unsung hero
+C,Scotland,43,Forward,9,Lyndon Dykes,Charlton,Forward,1995-10-07,30,,
+C,Scotland,43,Forward,10,Che Adams,Torino,Forward,1996-07-13,29,,
+C,Scotland,43,Forward,14,Ross Stewart,Southampton,Forward,1996-07-11,29,,‘The Loch Ness Drogba’
+C,Scotland,43,Forward,17,Ben Gannon-Doak,Bournemouth,Forward (winger),2005-11-11,20,attacker,Game-changer
+C,Scotland,43,Forward,18,George Hirst,Ipswich,Forward,1999-02-15,27,,
+C,Scotland,43,Forward,20,Lawrence Shankland,Rangers,Forward,1995-08-10,30,,
+C,Scotland,43,Forward,25,Findlay Curtis,Rangers,Forward (winger),2006-10-01,19,,Young gun
+C,Haiti,83,Coach,,Sebastien Migne,,Manager,,,,
+C,Haiti,83,Goalkeeper,1,Johny Placide,Bastia,Goalkeeper,1988-01-29,38,,Reliable
+C,Haiti,83,Goalkeeper,12,Alexandre Pierre,Sochaux,Goalkeeper,2001-02-25,25,,
+C,Haiti,83,Goalkeeper,23,Josué Duverger,Cosmos Koblenz,Goalkeeper,2000-04-27,26,,
+C,Haiti,83,Defender,2,Carlens Arcus,Angers,Defender,1996-06-28,29,defender,
+C,Haiti,83,Defender,3,Keeto Thermoncy,Young Boys,Defender,2006-03-29,20,,
+C,Haiti,83,Defender,4,Ricardo Adé,LDU Quito,Defender,1990-05-21,36,,‘The Wall’
+C,Haiti,83,Defender,5,Hannes Delcroix,Lugano,Defender,1999-02-28,27,,
+C,Haiti,83,Defender,8,Martin Expérience,AS Nancy,Defender,1999-03-09,27,,Modern full-back
+C,Haiti,83,Defender,13,Duke Lacroix,Colorado Springs Switchbacks,Defender,1993-10-14,32,,Social activist
+C,Haiti,83,Defender,22,Jean-Kévin Duverne,Nantes,Defender,1997-07-12,28,,
+C,Haiti,83,Defender,24,Wilguens Paugain,Zulte Waregem,Defender,2001-08-24,24,,Ex- pizza delivery guy
+C,Haiti,83,Midfielder,6,Carl Fred Sainté,El Paso Locomotive,Midfielder,2002-08-09,23,midfielder,
+C,Haiti,83,Midfielder,10,Jean-Ricner Bellegarde,Wolves,Midfielder,1998-06-27,27,,‘The Architect’
+C,Haiti,83,Midfielder,14,Leverton Pierre,Vizela,Midfielder,1998-03-09,28,,
+C,Haiti,83,Midfielder,17,Danley Jean Jacques,Philadelphia Union,Midfielder,2000-05-20,26,,
+C,Haiti,83,Midfielder,25,Dominique Simon,Tatran Presov,Midfielder,2000-07-29,25,,Journeyman
+C,Haiti,83,Midfielder,26,Woodensky Pierre,Violette AC,Midfielder,2004-12-30,21,breakout,
+C,Haiti,83,Forward,7,Derrick Etienne Jr,Toronto FC,Forward,1996-11-25,29,attacker|star,
+C,Haiti,83,Forward,9,Duckens Nazon,Esteghlal,Forward,1994-04-07,32,,
+C,Haiti,83,Forward,11,Louicius Deedson,FC Dallas,Forward (winger),2001-02-11,25,,
+C,Haiti,83,Forward,15,Ruben Providence,Almere City FC,Forward (winger),2001-07-07,24,,
+C,Haiti,83,Forward,16,Lenny Joseph,Ferencvaros,Forward,2000-10-12,25,gem,Surprise call-up
+C,Haiti,83,Forward,18,Wilson Isidor,Sunderland,Forward,2000-08-27,25,,Main attacking threat
+C,Haiti,83,Forward,19,Yassin Fortuné,Vizela,Forward (winger),1999-01-30,27,,
+C,Haiti,83,Forward,20,Frantzdy Pierrot,AEK Athens,Forward,1995-03-29,31,,
+C,Haiti,83,Forward,21,Josué Casimir,Auxerre,Forward,2001-09-24,24,,Lightning quick
+D,Turkey,22,Coach,,Vincenzo Montella,,Manager,,,,
+D,Turkey,22,Goalkeeper,1,Mert Gunok,Fenerbahce,Goalkeeper,1989-03-01,37,,
+D,Turkey,22,Goalkeeper,12,Altay Bayindir,Manchester United,Goalkeeper,1998-04-14,28,,Former striker
+D,Turkey,22,Goalkeeper,23,Ugurcan Cakir,Galatasaray,Goalkeeper,1996-04-05,30,,
+D,Turkey,22,Defender,2,Zeki Celik,Roma,Defender,1997-02-17,29,,Football fanatic
+D,Turkey,22,Defender,3,Merih Demiral,Al-Ahli,Defender,1998-03-05,28,defender,No-nonsense
+D,Turkey,22,Defender,4,Caglar Soyuncu,Fenerbahce,Defender,1996-05-23,30,,
+D,Turkey,22,Defender,13,Eren Elmali,Galatasaray,Defender,2000-07-07,25,,
+D,Turkey,22,Defender,14,Abdulkerim Bardakci,Galatasaray,Defender,1994-09-07,31,,
+D,Turkey,22,Defender,15,Ozan Kabak,Hoffenheim,Defender,2000-03-25,26,,
+D,Turkey,22,Defender,18,Mert Muldur,Fenerbahce,Defender,1999-04-03,27,,
+D,Turkey,22,Defender,20,Ferdi Kadioglu,Brighton,Defender,1999-10-07,26,,Tactically astute
+D,Turkey,22,Defender,22,Kaan Ayhan,Galatasaray,Defender,1994-11-10,31,,
+D,Turkey,22,Defender,25,Samet Akaydin,Caykur Rizespor,Defender,1994-03-13,32,,Polarising figure
+D,Turkey,22,Midfielder,5,Salih Özcan,Borussia Dortmund,Midfielder,1998-01-11,28,,Amateur wrestler
+D,Turkey,22,Midfielder,6,Orkun Kokcu,Besiktas,Midfielder,2000-12-29,25,,Midfield dynamo
+D,Turkey,22,Midfielder,8,Arda Guler,Real Madrid,Midfielder,2005-02-25,21,star|breakout|midfielder,Super star
+D,Turkey,22,Midfielder,10,Hakan Calhanoglu,Inter,Midfielder,1994-02-08,32,,
+D,Turkey,22,Midfielder,16,Ismail Yuksek,Fenerbahce,Midfielder,1999-01-26,27,,
+D,Turkey,22,Midfielder,26,Can Uzun,Eintracht Frankfurt,Midfielder,2005-11-11,20,gem,One to watch
+D,Turkey,22,Forward,7,Kerem Akturkoglu,Fenerbahce,Forward (winger),1998-10-21,27,,
+D,Turkey,22,Forward,9,Deniz Gul,Porto,Forward,2004-07-02,21,,
+D,Turkey,22,Forward,11,Kenan Yildiz,Juventus,Forward,2005-05-04,21,attacker,In-form
+D,Turkey,22,Forward,17,Irfan Can Kahveci,Fenerbahce,Forward (winger),1995-07-15,30,,
+D,Turkey,22,Forward,19,Yunus Akgun,Galatasaray,Forward (winger),2000-07-07,25,,
+D,Turkey,22,Forward,21,Baris Alper Yilmaz,Galatasaray,Forward,2000-05-23,26,,The Tank'
+D,Turkey,22,Forward,24,Oguz Aydin,Fenerbahce,Forward (winger),2000-10-27,25,,
+D,USA,16,Coach,,Mauricio Pochettino,,Manager,,,,
+D,USA,16,Goalkeeper,1,Matt Turner,New England Revolution,Goalkeeper,1994-06-24,31,,
+D,USA,16,Goalkeeper,24,Matt Freese,New York City FC,Goalkeeper,1998-09-02,27,,Harvard graduate
+D,USA,16,Goalkeeper,25,Chris Brady,Chicago Fire,Goalkeeper,2004-03-03,22,,
+D,USA,16,Defender,2,Sergiño Dest,PSV Eindhoven,Defender,2000-11-03,25,defender,
+D,USA,16,Defender,3,Chris Richards,Crystal Palace,Defender,2000-03-28,26,,Drew his own tattoo
+D,USA,16,Defender,5,Antonee Robinson,Fulham,Defender,1997-08-08,28,,‘Jedi’
+D,USA,16,Defender,6,Auston Trusty,Celtic,Defender,1998-08-12,27,,
+D,USA,16,Defender,12,Miles Robinson,FC Cincinnati,Defender,1997-03-14,29,,
+D,USA,16,Defender,13,Tim Ream,Charlotte,Defender,1987-10-05,38,,Elder statesman
+D,USA,16,Defender,16,Alex Freeman,Villarreal,Defender,2004-08-09,21,breakout|gem,
+D,USA,16,Defender,18,Max Arfsten,Columbus Crew,Defender,2001-04-19,25,,
+D,USA,16,Defender,22,Mark McKenzie,Toulouse,Defender,1999-02-25,27,,Keen photographer
+D,USA,16,Defender,23,Joe Scally,Borussia Mönchengladbach,Defender,2002-12-31,23,,
+D,USA,16,Midfielder,4,Tyler Adams,Bournemouth,Midfielder,1999-02-14,27,,Key midfielder
+D,USA,16,Midfielder,7,Gio Reyna,Borussia Mönchengladbach,Midfielder,2002-11-13,23,,
+D,USA,16,Midfielder,8,Weston McKennie,Juventus,Midfielder,1998-08-28,27,midfielder,Goal threat
+D,USA,16,Midfielder,11,Brenden Aaronson,Leeds,Midfielder,2000-10-22,25,,
+D,USA,16,Midfielder,14,Sebastian Berhalter,Vancouver Whitecaps,Midfielder,2001-05-10,25,,
+D,USA,16,Midfielder,15,Cristian Roldan,Seattle Sounders,Midfielder,1995-06-03,31,,
+D,USA,16,Forward,9,Ricardo Pepi,PSV Eindhoven,Forward,2003-01-09,23,,‘El Tren’
+D,USA,16,Forward,10,Christian Pulisic,Milan,Forward,1998-09-18,27,star|captain|attacker,Super star
+D,USA,16,Forward,17,Malik Tillman,Bayer Leverkusen,Forward,2002-05-28,24,,
+D,USA,16,Forward,19,Haji Wright,Coventry City,Forward,1998-03-27,28,,
+D,USA,16,Forward,20,Folarin Balogun,Monaco,Forward,2001-07-03,24,,Main striker
+D,USA,16,Forward,21,Tim Weah,Marseille,Forward (winger),2000-02-22,26,,Keen musician
+D,USA,16,Forward,26,Alejandro Zendejas,Club América,Forward,1998-02-07,28,,
+D,Australia,27,Coach,,Tony Popovic,,Manager,,,,
+D,Australia,27,Goalkeeper,1,Mathew Ryan,Levante,Goalkeeper,1992-04-08,34,,No 1 goalkeeper
+D,Australia,27,Goalkeeper,12,Paul Izzo,Randers,Goalkeeper,1995-01-06,31,,
+D,Australia,27,Goalkeeper,18,Patrick Beach,Melbourne City,Goalkeeper,2003-08-06,22,,Former softball player
+D,Australia,27,Defender,2,Milos Degenek,Apoel,Defender,1994-04-28,32,,
+D,Australia,27,Defender,3,Alessandro Circati,Parma,Defender,2003-10-10,22,captain,Natural leader
+D,Australia,27,Defender,4,Jacob Italiano,Grazer AK,Defender,2001-07-30,24,,
+D,Australia,27,Defender,5,Jordan Bos,Feyenoord,Defender,2002-10-29,23,,Relentless
+D,Australia,27,Defender,6,Jason Geria,Albirex Niigata,Defender,1993-05-10,33,,Comeback kid
+D,Australia,27,Defender,15,Kai Trewin,New York City,Defender,2001-05-18,25,,
+D,Australia,27,Defender,16,Aziz Behich,Melbourne City,Defender,1990-12-16,35,,Rapid
+D,Australia,27,Defender,19,Harry Souttar,Leicester,Defender,1998-10-22,27,defender,No-nonsense
+D,Australia,27,Defender,21,Cameron Burgess,Swansea,Defender,1995-10-21,30,,
+D,Australia,27,Defender,25,Lucas Herrington,Colorado Rapids,Defender,2007-09-05,18,,Bright prospect
+D,Australia,27,Midfielder,7,Mathew Leckie,Melbourne City,Midfielder,1991-02-04,35,,Cult hero
+D,Australia,27,Midfielder,8,Connor Metcalfe,St Pauli,Midfielder,1999-11-05,26,,
+D,Australia,27,Midfielder,10,Ajdin Hrustic,Heracles Almelo,Midfielder,1996-07-05,29,,
+D,Australia,27,Midfielder,13,Aiden O’Neill,New York City,Midfielder,1998-07-04,27,,Farm owner
+D,Australia,27,Midfielder,14,Cameron Devlin,Hearts,Midfielder,1998-06-07,28,,
+D,Australia,27,Midfielder,20,Cristian Volpato,Sassuolo,Midfielder,2003-11-15,22,,Late recruit
+D,Australia,27,Midfielder,22,Jackson Irvine,St Pauli,Midfielder,1993-03-07,33,midfielder,Key midfielder
+D,Australia,27,Midfielder,24,Paul Okon-Engstler,Sydney FC,Midfielder,2005-01-24,21,,
+D,Australia,27,Forward,9,Mohamed Touré,Norwich,Forward,2004-03-26,22,attacker,
+D,Australia,27,Forward,11,Awer Mabil,Castellón,Forward,1995-09-15,30,,Does humanitarian work
+D,Australia,27,Forward,17,Nestory Irankunda,Watford,Forward (winger),2006-02-09,20,star|breakout|gem,One to watch
+D,Australia,27,Forward,23,Nishan Velupillay,Melbourne Victory,Forward,2001-05-07,25,,
+D,Australia,27,Forward,26,Tete Yengi,Machida Zelvia,Forward,2000-11-28,25,,
+D,Paraguay,40,Coach,,Gustavo Alfaro,,Manager,,,,
+D,Paraguay,40,Goalkeeper,1,Roberto Junior Fernández,Cerro Porteño,Goalkeeper,1988-03-29,38,,‘The Kitten’
+D,Paraguay,40,Goalkeeper,12,Orlando Gill,San Lorenzo de Almagro,Goalkeeper,2000-06-11,26,,
+D,Paraguay,40,Goalkeeper,22,Gastón Oliveira,Olimpia,Goalkeeper,1993-04-21,33,,
+D,Paraguay,40,Defender,2,Gustavo Velázquez,Cerro Porteño,Defender,1991-04-17,35,gem|defender,Late bloomer
+D,Paraguay,40,Defender,3,Omar Alderete,Sunderland,Defender,1996-12-26,29,,
+D,Paraguay,40,Defender,4,Juan José Cáceres,Dynamo Moscow,Defender,2000-06-01,26,,
+D,Paraguay,40,Defender,5,Fabián Balbuena,Grêmio,Defender,1991-08-23,34,,‘The General’
+D,Paraguay,40,Defender,6,Junior Alonso,Atlético Mineiro,Defender,1993-02-09,33,,
+D,Paraguay,40,Defender,13,José Canale,Lanus,Defender,1996-07-20,29,,
+D,Paraguay,40,Defender,15,Gustavo Gómez,Palmeiras,Defender,1993-05-06,33,,
+D,Paraguay,40,Defender,26,Alexandro Maidana,Talleres,Defender,2005-07-26,20,breakout,
+D,Paraguay,40,Midfielder,8,Diego Gómez,Brighton,Midfielder,2003-03-27,23,,Warrior
+D,Paraguay,40,Midfielder,11,Maurício,Palmeiras,Midfielder,2001-06-22,24,,
+D,Paraguay,40,Midfielder,14,Andrés Cubas,Vancouver Whitecaps,Midfielder,1996-05-11,30,midfielder,Running machine
+D,Paraguay,40,Midfielder,16,Damián Bobadilla,São Paulo,Midfielder,2001-07-11,24,,
+D,Paraguay,40,Midfielder,17,Alejandro ‘Kaku’ Romero,Al-Ain,Midfielder,1995-01-11,31,,
+D,Paraguay,40,Midfielder,20,Braian Ojeda,Orlando City,Midfielder,2000-06-27,25,,
+D,Paraguay,40,Midfielder,23,Matías Galarza,Atlanta United,Midfielder,2002-02-11,24,,From goalkeeping family
+D,Paraguay,40,Forward,7,Ramón Sosa,Palmeiras,Forward,1999-08-31,26,,
+D,Paraguay,40,Forward,9,Antonio Sanabria,Cremonese,Forward,1996-03-04,30,,
+D,Paraguay,40,Forward,10,Miguel Almirón,Atlanta United,Forward (winger),1994-02-10,32,,
+D,Paraguay,40,Forward,18,Álex Arce,Independiente de Rivadavia,Forward,1995-06-16,30,,
+D,Paraguay,40,Forward,19,Julio Enciso,Racing Strasbourg,Forward,2004-01-23,22,,Main creative force
+D,Paraguay,40,Forward,21,Gabriel Ávalos,Independiente de Avellaneda,Forward,1990-10-12,35,,
+D,Paraguay,40,Forward,24,Gustavo Caballero,Portsmouth,Forward (winger),2001-09-21,24,attacker|star,Game-changer
+D,Paraguay,40,Forward,25,Isidro Pitta,Red Bull Bragantino,Forward,1999-08-14,26,,‘Viking’
+E,Germany,10,Coach,,Julian Nagelsmann,,Manager,,,,
+E,Germany,10,Goalkeeper,1,Manuel Neuer,Bayern Munich,Goalkeeper,1986-03-27,40,,Returning hero
+E,Germany,10,Goalkeeper,12,Oliver Baumann,Hoffenheim,Goalkeeper,1990-06-02,36,,
+E,Germany,10,Goalkeeper,21,Alexander Nübel,Stuttgart,Goalkeeper,1996-09-30,29,,
+E,Germany,10,Defender,2,Antonio Rüdiger,Real Madrid,Defender,1993-03-03,33,,Temperamental
+E,Germany,10,Defender,3,Waldemar Anton,Borussia Dortmund,Defender,1996-07-20,29,,
+E,Germany,10,Defender,4,Jonathan Tah,Bayern Munich,Defender,1996-02-11,30,defender,Defensive rock
+E,Germany,10,Defender,6,Joshua Kimmich,Bayern Munich,Defender,1995-02-08,31,captain,Captain
+E,Germany,10,Defender,15,Nico Schlotterbeck,Borussia Dortmund,Defender,1999-12-01,26,,Old-school
+E,Germany,10,Defender,18,Nathaniel Brown,Eintracht Frankfurt,Defender,2003-06-16,22,,
+E,Germany,10,Defender,22,David Raum,RB Leipzig,Defender,1998-04-22,28,,Future DJ?
+E,Germany,10,Defender,24,Malick Thiaw,Newcastle,Defender,2001-08-08,24,,
+E,Germany,10,Midfielder,5,Aleksandar Pavlovic,Bayern Munich,Midfielder,2004-05-03,22,,On the rise
+E,Germany,10,Midfielder,8,Leon Goretzka,Bayern Munich,Midfielder,1995-02-06,31,,
+E,Germany,10,Midfielder,9,Jamie Leweling,Stuttgart,Midfielder,2001-02-26,25,,
+E,Germany,10,Midfielder,10,Jamal Musiala,Bayern Munich,Midfielder,2003-02-26,23,breakout|attacker,
+E,Germany,10,Midfielder,13,Pascal Gross,Brighton,Midfielder,1991-06-15,34,,
+E,Germany,10,Midfielder,16,Angelo Stiller,Stuttgart,Midfielder,2001-04-04,25,,
+E,Germany,10,Midfielder,17,Florian Wirtz,Liverpool,Midfielder,2003-05-03,23,star|midfielder,Star player
+E,Germany,10,Midfielder,20,Nadiem Amiri,Mainz,Midfielder,1996-10-27,29,gem,Surprise call-up
+E,Germany,10,Midfielder,23,Felix Nmecha,Borussia Dortmund,Midfielder,2000-10-10,25,,
+E,Germany,10,Midfielder,25,Lennart Karl,Bayern Munich,Midfielder,2008-02-22,18,,Teenage sensation
+E,Germany,10,Forward,7,Kai Havertz,Arsenal,Forward,1999-06-11,27,,
+E,Germany,10,Forward,11,Nick Woltemade,Newcastle,Forward,2002-02-14,24,,
+E,Germany,10,Forward,14,Maximilian Beier,Borussia Dortmund,Forward,2002-10-17,23,,
+E,Germany,10,Forward,19,Leroy Sané,Galatasaray,Forward (winger),1996-01-11,30,,
+E,Germany,10,Forward,26,Deniz Undav,Stuttgart,Forward,1996-07-19,29,,Natural goalscorer
+E,Côte d'Ivoire,34,Coach,,Emerse Faé,,Manager,,,,
+E,Côte d'Ivoire,34,Goalkeeper,1,Yahia Fofana,Caykur Rizespor,Goalkeeper,2000-08-21,25,,No 1 goalkeeper
+E,Côte d'Ivoire,34,Goalkeeper,16,Mohamed Koné,Charleroi,Goalkeeper,2002-03-07,24,,
+E,Côte d'Ivoire,34,Goalkeeper,23,Alban Lafont,Nantes,Goalkeeper,1999-01-23,27,,
+E,Côte d'Ivoire,34,Defender,2,Ousmane Diomandé,Sporting,Defender,2003-12-04,22,,
+E,Côte d'Ivoire,34,Defender,3,Ghislain Konan,Gil Vicente,Defender,1995-12-27,30,,
+E,Côte d'Ivoire,34,Defender,5,Wilfried Singo,Galatasaray,Defender,2000-12-25,25,,
+E,Côte d'Ivoire,34,Defender,7,Odilon Kossounou,Atalanta,Defender,2001-01-04,25,defender,Defensive rock
+E,Côte d'Ivoire,34,Defender,13,Christopher Opéri,Basaksehir,Defender,1997-04-29,29,,Late replacement
+E,Côte d'Ivoire,34,Defender,17,Guela Doué,Strasbourg,Defender,2002-10-17,23,,Swiss army knife
+E,Côte d'Ivoire,34,Defender,20,Emmanuel Agbadou,Besiktas,Defender,1997-06-17,28,,
+E,Côte d'Ivoire,34,Defender,21,Evan Ndicka,Roma,Defender,1999-08-20,26,,'Minister of defence'
+E,Côte d'Ivoire,34,Midfielder,4,Jean Michaël Seri,Maribor,Midfielder,1991-07-19,34,,Veteran
+E,Côte d'Ivoire,34,Midfielder,6,Séko Fofana,Porto,Midfielder,1995-05-07,31,midfielder,Box-to-box midfielder
+E,Côte d'Ivoire,34,Midfielder,8,Franck Kessié,Al-Ahli,Midfielder,1996-12-19,29,captain,Captain
+E,Côte d'Ivoire,34,Midfielder,18,Ibrahim Sangaré,Nottingham Forest,Midfielder,1997-12-02,28,,
+E,Côte d'Ivoire,34,Midfielder,25,Parfait Guiagon,Charleroi,Midfielder,2001-02-22,25,,
+E,Côte d'Ivoire,34,Forward,9,Ange-Yoan Bonny,Inter,Forward,2003-10-25,22,attacker,
+E,Côte d'Ivoire,34,Forward,10,Simon Adingra,Sunderland,Forward (winger),2002-01-01,24,star,
+E,Côte d'Ivoire,34,Forward,11,Yan Diomandé,RB Leipzig,Forward (winger),2006-11-14,19,breakout|gem,Rising star
+E,Côte d'Ivoire,34,Forward,12,Elye Wahi,Eintracht Frankfurt,Forward,2003-01-02,23,,Back in form
+E,Côte d'Ivoire,34,Forward,14,Oumar Diakité,Cercle Bruges,Forward (winger),2003-12-20,22,,
+E,Côte d'Ivoire,34,Forward,15,Amad Diallo,Manchester United,Forward (winger),2002-07-11,23,,Star player
+E,Côte d'Ivoire,34,Forward,19,Nicolas Pépé,Villareal,Forward (winger),1995-05-29,31,,
+E,Côte d'Ivoire,34,Forward,22,Evann Guessand,Aston Villa,Forward,2001-07-01,24,,
+E,Côte d'Ivoire,34,Forward,24,Bazoumana Touré,Hoffenheim,Forward (winger),2006-03-02,20,,High-speed train
+E,Côte d'Ivoire,34,Forward,26,Christ Inao Oulaï,Trabzonspor,Forward (winger),2006-04-06,20,,Risk-taker
+E,Ecuador,23,Coach,,Sebastián Beccacece,,Manager,,,,
+E,Ecuador,23,Goalkeeper,1,Hernán Galíndez,CA Huracán,Goalkeeper,1987-03-30,39,,No 1 goalkeeper
+E,Ecuador,23,Goalkeeper,12,Moisés Ramírez,Kifisia,Goalkeeper,2000-09-09,25,,
+E,Ecuador,23,Goalkeeper,22,Gonzalo Valle,LDU Quito,Goalkeeper,1996-02-28,30,,
+E,Ecuador,23,Defender,2,Félix Torres,Internacional,Defender,1997-01-11,29,,
+E,Ecuador,23,Defender,3,Piero Hincapié,Arsenal,Defender,2002-01-09,24,defender|captain,Natural leader
+E,Ecuador,23,Defender,4,Joel Ordóñez,Club Brugge,Defender,2004-04-21,22,gem,Going places
+E,Ecuador,23,Defender,6,Willian Pacho,Paris St-Germain,Defender,2001-10-16,24,,Defensive rock
+E,Ecuador,23,Defender,7,Pervis Estupiñán,Milan,Defender,1998-01-21,28,,
+E,Ecuador,23,Defender,17,Ángelo Preciado,Atlético Mineiro,Defender,2002-02-18,24,,
+E,Ecuador,23,Defender,25,Jackson Porozo,Tijuana,Defender,2000-08-04,25,,
+E,Ecuador,23,Defender,26,Yaimar Medina,Genk,Defender,2004-11-05,21,,
+E,Ecuador,23,Midfielder,5,Jordy Alcívar,Independiente del Valle,Midfielder,1999-08-05,26,,
+E,Ecuador,23,Midfielder,18,Denil Castillo,Midtjylland,Midfielder,2004-03-24,22,,
+E,Ecuador,23,Midfielder,21,Alan Franco,Atlético Mineiro,Midfielder,1998-08-21,27,,
+E,Ecuador,23,Midfielder,23,Moisés Caicedo,Chelsea,Midfielder,2001-11-02,24,star|midfielder,Midfield engine
+E,Ecuador,23,Forward,8,Anthony Valencia,Royal Antwerp,Forward,2003-07-21,22,attacker,
+E,Ecuador,23,Forward,9,John Yeboah,Venezia,Forward,2000-06-23,25,,
+E,Ecuador,23,Forward,10,Kendry Páez,River Plate,Forward (winger),2007-05-04,19,breakout,Left-footed prodigy
+E,Ecuador,23,Forward,11,Kevin Rodríguez,Union Saint-Gilloise,Forward,2000-03-04,26,,
+E,Ecuador,23,Forward,13,Enner Valencia,Pachuca,Forward,1989-11-04,36,,Figurehead
+E,Ecuador,23,Forward,14,Alan Minda,Atlético Mineiro,Forward (winger),2003-05-14,23,,
+E,Ecuador,23,Forward,15,Pedro Vite,Pumas UNAM,Forward (winger),2002-03-09,24,,
+E,Ecuador,23,Forward,16,Jordy Caicedo,CA Huracán,Forward,1997-11-18,28,,Classic No 9
+E,Ecuador,23,Forward,19,Gonzalo Plata,Flamengo,Forward (winger),2000-11-01,25,,
+E,Ecuador,23,Forward,20,Nilson Angulo,Sunderland,Forward (winger),2003-06-19,22,,
+E,Ecuador,23,Forward,24,Jeremy Arévalo,Stuttgart,Forward,2005-03-19,21,,
+E,Curaçao,82,Coach,,Dick Advocaat,,Manager,,,,
+E,Curaçao,82,Goalkeeper,1,Eloy Room,Miami FC,Goalkeeper,1989-02-06,37,star,Legend
+E,Curaçao,82,Goalkeeper,25,Tyrick Bodak,Telstar,Goalkeeper,2002-05-15,24,,Future B & B owner
+E,Curaçao,82,Goalkeeper,26,Trevor Doornbusch,VVV-Venlo,Goalkeeper,1999-07-06,26,,
+E,Curaçao,82,Defender,2,Shurandy Sambo,Burnley,Defender,2001-08-19,24,,Fighter
+E,Curaçao,82,Defender,3,Juriën Gaari,Abha,Defender,1993-12-23,32,,
+E,Curaçao,82,Defender,4,Roshon van Eijma,RKC Waalwijk,Defender,1998-06-09,28,,Commanding presence
+E,Curaçao,82,Defender,5,Sherel Floranus,PEC Zwolle,Defender,1998-08-23,27,,Versatile
+E,Curaçao,82,Defender,18,Armando Obispo,PSV Eindhoven,Defender,1999-03-05,27,defender,Defensive rock
+E,Curaçao,82,Defender,20,Joshua Brenet,Kayserispor,Defender,1994-03-20,32,,History maker
+E,Curaçao,82,Defender,23,Riechedly Bazoer,Konyaspor,Defender,1996-10-12,29,,
+E,Curaçao,82,Defender,24,Deveron Fonville,NEC Nigmegen,Defender,2003-05-16,23,,
+E,Curaçao,82,Midfielder,6,Godfried Roemeratoe,RKC Waalwijk,Midfielder,1999-08-19,26,midfielder,
+E,Curaçao,82,Midfielder,7,Juninho Bacuna,Gaziantep,Midfielder,1997-08-07,28,,
+E,Curaçao,82,Midfielder,8,Livano Comenencia,FC Zurich,Midfielder,2004-02-03,22,gem,
+E,Curaçao,82,Midfielder,10,Leandro Bacuna,Igdir,Midfielder,1991-08-21,34,captain,Leader
+E,Curaçao,82,Midfielder,13,Tyrese Noslin,SC Telstar,Midfielder,2002-09-11,23,,
+E,Curaçao,82,Midfielder,15,Ar'jany Martha,Rotherham,Midfielder,2003-09-04,22,,Unpredictable
+E,Curaçao,82,Midfielder,22,Kevin Felida,FC Den Bosch,Midfielder,1999-11-11,26,,Curaçao’s N’Golo Kanté
+E,Curaçao,82,Forward,9,Jürgen Locadia,Miami FC,Forward,1993-11-07,32,attacker,
+E,Curaçao,82,Forward,11,Jeremy Antonisse,Kifisia,Forward,2002-03-29,24,,
+E,Curaçao,82,Forward,12,Sontje Hansen,Middlesbrough,Forward,2002-05-18,24,,
+E,Curaçao,82,Forward,14,Kenji Gorré,Maccabi Haifa,Forward,1994-09-29,31,,
+E,Curaçao,82,Forward,16,Jearl Margaritha,Beveren,Forward (winger),2000-04-10,26,,Persistent
+E,Curaçao,82,Forward,17,Brandley Kuwas,Volendam,Forward,1992-09-19,33,,Subject of rap song
+E,Curaçao,82,Forward,19,Gervane Kastaneer,Terengganu FC,Forward,1996-06-09,30,,Overcame serious injury
+E,Curaçao,82,Forward,21,Tahith Chong,Sheffield United,Forward,1999-12-04,26,breakout,Child prodigy
+F,Netherlands,7,Coach,,Ronald Koeman,,Manager,,,,
+F,Netherlands,7,Goalkeeper,1,Bart Verbruggen,Brighton,Goalkeeper,2002-08-18,23,,No 1 goalkeeper
+F,Netherlands,7,Goalkeeper,13,Robin Roefs,Sunderland,Goalkeeper,2003-01-17,23,,
+F,Netherlands,7,Goalkeeper,23,Mark Flekken,Bayer Leverkusen,Goalkeeper,1993-06-13,32,,Late bloomer
+F,Netherlands,7,Defender,2,Jurriën Timber,Arsenal,Defender,2001-06-17,24,,
+F,Netherlands,7,Defender,4,Virgil van Dijk,Liverpool,Defender,1991-07-08,34,star|captain|defender,Defensive rock
+F,Netherlands,7,Defender,5,Nathan Aké,Manchester City,Defender,1995-02-18,31,,
+F,Netherlands,7,Defender,6,Jan Paul van Hecke,Brighton,Defender,2000-06-08,26,,‘The Giant of Arnemuiden’
+F,Netherlands,7,Defender,15,Micky van de Ven,Tottenham,Defender,2001-04-19,25,,
+F,Netherlands,7,Defender,22,Denzel Dumfries,Inter,Defender,1996-04-18,30,,
+F,Netherlands,7,Defender,25,Jorrel Hato,Chelsea,Defender,2006-03-07,20,breakout,
+F,Netherlands,7,Midfielder,3,Marten de Roon,Atalanta,Midfielder,1991-03-29,35,,
+F,Netherlands,7,Midfielder,8,Ryan Gravenberch,Liverpool,Midfielder,2002-05-16,24,,
+F,Netherlands,7,Midfielder,12,Mats Wieffer,Brighton,Midfielder,1999-11-16,26,,Ice cream lover
+F,Netherlands,7,Midfielder,14,Tijjani Reijnders,Manchester City,Midfielder,1998-07-29,27,,
+F,Netherlands,7,Midfielder,16,Guus Til,PSV Eindhoven,Midfielder,1997-12-22,28,gem,Surprise call-up
+F,Netherlands,7,Midfielder,20,Teun Koopmeiners,Juventus,Midfielder,1998-02-28,28,,
+F,Netherlands,7,Midfielder,21,Frenkie de Jong,Barcelona,Midfielder,1997-05-12,29,midfielder,Midfield maestro
+F,Netherlands,7,Midfielder,26,Quinten Timber,Marseille,Midfielder,2001-06-17,24,,
+F,Netherlands,7,Forward,7,Justin Kluivert,Bournemouth,Forward (winger),1999-05-05,27,,
+F,Netherlands,7,Forward,9,Wout Weghorst,Ajax,Forward,1992-08-07,33,,
+F,Netherlands,7,Forward,10,Memphis Depay,Corinthians,Forward,1994-02-13,32,,Record goalscorer
+F,Netherlands,7,Forward,11,Cody Gakpo,Liverpool,Forward (winger),1999-05-07,27,attacker,
+F,Netherlands,7,Forward,17,Noa Lang,Napoli,Forward (winger),1999-06-17,26,,Maverick
+F,Netherlands,7,Forward,18,Donyell Malen,Roma,Forward,1999-01-19,27,,
+F,Netherlands,7,Forward,19,Brian Brobbey,Sunderland,Forward,2002-02-01,24,,
+F,Netherlands,7,Forward,24,Crysencio Summerville,West Ham,Forward,2001-10-30,24,,Basketball lover
+F,Japan,18,Coach,,Hajime Moriyasu,,Manager,,,,
+F,Japan,18,Goalkeeper,1,Zion Suzuki,Parma,Goalkeeper,2002-08-21,23,,No 1 goalkeeper
+F,Japan,18,Goalkeeper,12,Keisuke Osako,Sanfrecce Hiroshima,Goalkeeper,1999-07-28,26,,
+F,Japan,18,Goalkeeper,23,Tomoki Hayakawa,Kashima Antlers,Goalkeeper,1999-03-03,27,,
+F,Japan,18,Defender,2,Yukinari Sugawara,Southampton,Defender,2000-06-28,25,,
+F,Japan,18,Defender,3,Shogo Taniguchi,Sint-Truiden,Defender,1991-07-15,34,,
+F,Japan,18,Defender,4,Ko Itakura,Ajax,Defender,1997-01-27,29,,Cheerful personality
+F,Japan,18,Defender,5,Yuto Nagatomo,FC Tokyo,Defender,1986-09-12,39,,Golden oldie
+F,Japan,18,Defender,16,Tsuyoshi Watanabe,Feyenoord,Defender,1997-02-05,29,,
+F,Japan,18,Defender,20,Ayumu Seko,Le Havre,Defender,2000-06-07,26,,
+F,Japan,18,Defender,21,Hiroki Ito,Bayern Munich,Defender,1999-05-12,27,defender,Defensive rock
+F,Japan,18,Defender,22,Takehiro Tomiyasu,Ajax,Defender,1998-11-05,27,,
+F,Japan,18,Defender,25,Junnosuke Suzuki,FC Copenhagen,Defender,2003-07-12,22,,Former midfielder
+F,Japan,18,Midfielder,6,Wataru Endo,Liverpool,Midfielder,1993-02-09,33,midfielder,‘The duel king’
+F,Japan,18,Midfielder,7,Ao Tanaka,Leeds,Midfielder,1998-09-10,27,,Keen reader
+F,Japan,18,Midfielder,15,Daichi Kamada,Crystal Palace,Midfielder,1996-08-05,29,,
+F,Japan,18,Midfielder,17,Yuito Suzuki,Freiburg,Midfielder,2001-10-25,24,,
+F,Japan,18,Midfielder,24,Kaishu Sano,Mainz,Midfielder,2000-12-30,25,,
+F,Japan,18,Forward,8,Takefusa Kubo,Real Sociedad,Forward (winger),2001-06-04,25,star|attacker,‘The Japanese Messi’
+F,Japan,18,Forward,9,Keisuke Goto,Sint-Truidense,Forward,2005-06-03,21,breakout|gem,
+F,Japan,18,Forward,10,Ritsu Doan,Eintracht Frankfurt,Forward (winger),1998-06-16,27,,Big-game player
+F,Japan,18,Forward,11,Daizen Maeda,Celtic,Forward,1997-10-20,28,,
+F,Japan,18,Forward,13,Keito Nakamura,Stade de Reims,Forward (winger),2000-07-28,25,,
+F,Japan,18,Forward,14,Junya Ito,KRC Genk,Forward (winger),1993-03-09,33,,
+F,Japan,18,Forward,18,Ayase Ueda,Feyenoord,Forward,1998-08-28,27,,
+F,Japan,18,Forward,19,Koki Ogawa,NEC Nijmegen,Forward,1997-08-08,28,,
+F,Japan,18,Forward,26,Kento Shiogai,Wolfsburg,Forward,2005-03-26,21,,Lightning quick
+F,Sweden,38,Coach,,Graham Potter,,Manager,,,,
+F,Sweden,38,Goalkeeper,1,Jacob Widell Zetterström,Derby County,Goalkeeper,1998-07-11,27,,Keen reader
+F,Sweden,38,Goalkeeper,12,Viktor Johansson,Stoke City,Goalkeeper,1998-09-14,27,,‘The Viking’
+F,Sweden,38,Goalkeeper,23,Kristoffer Nordfeldt,AIK,Goalkeeper,1989-06-23,36,,
+F,Sweden,38,Defender,2,Gustaf Lagerbielke,Braga,Defender,2000-04-10,26,defender,From a noble family
+F,Sweden,38,Defender,3,Victor Lindelöf,Aston Villa,Defender,1994-07-17,31,captain,Veteran
+F,Sweden,38,Defender,4,Isak Hien,Atalanta,Defender,1999-01-13,27,,
+F,Sweden,38,Defender,5,Gabriel Gudmundsson,Leeds,Defender,1999-04-29,27,,
+F,Sweden,38,Defender,6,Herman Johansson,FC Dallas,Defender,1997-10-16,28,,Late replacement
+F,Sweden,38,Defender,8,Daniel Svensson,Borussia Dortmund,Defender,2002-02-12,24,,Running machine
+F,Sweden,38,Defender,14,Hjalmar Ekdal,Burnley,Defender,1998-10-21,27,,
+F,Sweden,38,Defender,15,Carl Starfelt,Celta Vigo,Defender,1995-06-01,31,,
+F,Sweden,38,Defender,20,Eric Smith,St Pauli,Defender,1997-01-08,29,,
+F,Sweden,38,Defender,24,Elliot Stroud,Mjällby,Defender,2002-06-22,23,,
+F,Sweden,38,Midfielder,7,Lucas Bergvall,Tottenham,Midfielder,2006-02-02,20,breakout|midfielder,On the rise
+F,Sweden,38,Midfielder,16,Jesper Karlström,Udinese,Midfielder,1995-06-21,30,,
+F,Sweden,38,Midfielder,18,Yasin Ayari,Brighton,Midfielder,2003-10-06,22,,
+F,Sweden,38,Midfielder,19,Mattias Svanberg,Wolfsburg,Midfielder,1999-01-05,27,,
+F,Sweden,38,Midfielder,22,Besfort Zeneli,Union Saint-Gilloise,Midfielder,2002-11-21,23,,
+F,Sweden,38,Forward,9,Alexander Isak,Liverpool,Forward,1999-09-21,26,star|attacker,Star player
+F,Sweden,38,Forward,10,Benjamin Nygren,Celtic,Forward,2001-07-08,24,,
+F,Sweden,38,Forward,11,Anthony Elanga,Newcastle,Forward (winger),2002-04-27,24,,Speedy
+F,Sweden,38,Forward,13,Ken Sema,Pafos FC,Forward,1993-09-30,32,gem,Surprise call-up
+F,Sweden,38,Forward,17,Viktor Gyökeres,Arsenal,Forward,1998-06-04,28,,In-form
+F,Sweden,38,Forward,21,Alexander Bernhardsson,Holstein Kiel,Forward (winger),1998-09-08,27,,
+F,Sweden,38,Forward,25,Gustaf Nilsson,Club Brugge,Forward,1997-05-23,29,,
+F,Sweden,38,Forward,26,Taha Ali,Malmö FF,Forward (winger),1998-07-01,27,,Proving people wrong
+F,Tunisia,44,Coach,,Sabri Lamouchi,,Manager,,,,
+F,Tunisia,44,Goalkeeper,1,Mouhib Chamakh,Club Africain,Goalkeeper,2001-08-25,24,,
+F,Tunisia,44,Goalkeeper,16,Aymen Dahmen,CS Sfaxien,Goalkeeper,1997-01-28,29,,experienced
+F,Tunisia,44,Goalkeeper,22,Sabri Ben Hessen,Étoile du Sahel,Goalkeeper,1996-06-13,29,,
+F,Tunisia,44,Defender,2,Ali Abdi,Nice,Defender,1993-12-20,32,defender,Veteran
+F,Tunisia,44,Defender,3,Montassar Talbi,Lorient,Defender,1998-05-26,28,,Warrior
+F,Tunisia,44,Defender,4,Omar Rekik,Maribor,Defender,2001-12-20,24,,Comeback kid
+F,Tunisia,44,Defender,5,Adem Arous,Kasimpasa,Defender,2004-07-17,21,,
+F,Tunisia,44,Defender,6,Dylan Bronn,Servette,Defender,1995-06-19,30,,Important squad member
+F,Tunisia,44,Defender,20,Yan Valery,Sheffield Wednesday,Defender,1999-02-22,27,,
+F,Tunisia,44,Defender,21,Mohamed Amine Ben Hmida,Espérance de Tunis,Defender,1995-12-15,30,,‘Every coach’s dream’
+F,Tunisia,44,Defender,23,Moutaz Neffati,IFK Norrköping,Defender,2004-09-04,21,,
+F,Tunisia,44,Defender,24,Raed Chikhaoui,US Monastir,Defender,2004-06-09,22,gem,Surprise call-up
+F,Tunisia,44,Midfielder,10,Hannibal Mejbri,Burnley,Midfielder,2003-01-21,23,star|midfielder,Star player
+F,Tunisia,44,Midfielder,11,Ismaël Gharbi,Braga,Midfielder,2004-04-10,22,,The future
+F,Tunisia,44,Midfielder,12,Mortadha Ben Ouanes,Kasimpasa,Midfielder,1994-07-02,31,,
+F,Tunisia,44,Midfielder,13,Rani Khedira,Union Berlin,Midfielder,1994-01-27,32,,Late arrival
+F,Tunisia,44,Midfielder,15,Hadj Mahmoud,Lugano,Midfielder,2000-04-24,26,,
+F,Tunisia,44,Midfielder,17,Ellyes Skhiri,Eintracht Frankfurt,Midfielder,1995-05-10,31,captain,Captain and leader
+F,Tunisia,44,Midfielder,25,Anis Ben Slimane,Norwich City,Midfielder,2001-03-16,25,,The enigma
+F,Tunisia,44,Forward,7,Elias Achouri,FC Copenhagen,Forward (winger),1999-02-10,27,attacker,Creative spark
+F,Tunisia,44,Forward,8,Elias Saad,Augsburg,Forward,1999-12-27,26,,Former futsal player
+F,Tunisia,44,Forward,9,Hazem Mastouri,Dynamo Makhachkala,Forward,1997-06-18,28,,
+F,Tunisia,44,Forward,14,Khalil Ayari,Paris St-Germain,Forward,2005-02-02,21,,The big hope
+F,Tunisia,44,Forward,18,Rayan Elloumi,Vancouver,Forward,2007-09-17,18,breakout,Teenage sensation
+F,Tunisia,44,Forward,19,Firas Chaouat,Club Africain,Forward,1996-05-08,30,,Natural-born goalscorer
+F,Tunisia,44,Forward,26,Sebastien Tounekti,Celtic,Forward,2002-07-13,23,,
+G,Belgium,9,Coach,,Rudi Garcia,,Manager,,,,
+G,Belgium,9,Goalkeeper,1,Thibaut Courtois,Real Madrid,Goalkeeper,1992-05-11,34,,Top shot-stopper
+G,Belgium,9,Goalkeeper,12,Senne Lammens,Manchester United,Goalkeeper,2002-07-07,23,,‘The Ice Rabbit’
+G,Belgium,9,Goalkeeper,13,Mike Penders,Chelsea,Goalkeeper,2005-07-31,20,gem,
+G,Belgium,9,Defender,2,Zeno Debast,Sporting,Defender,2003-10-24,22,defender,Natural leader
+G,Belgium,9,Defender,3,Arthur Theate,Eintracht Frankfurt,Defender,2000-05-25,26,,
+G,Belgium,9,Defender,4,Brandon Mechele,Club Brugge,Defender,1992-01-28,34,,
+G,Belgium,9,Defender,5,Maxim De Cuyper,Brighton,Defender,2000-12-22,25,,
+G,Belgium,9,Defender,15,Thomas Meunier,Lille,Defender,1991-09-12,34,,Former postman
+G,Belgium,9,Defender,16,Koni De Winter,Milan,Defender,2002-06-12,23,,
+G,Belgium,9,Defender,18,Joaquin Seys,Club Brugge,Defender,2005-03-28,21,,
+G,Belgium,9,Defender,21,Timothy Castagne,Fulham,Defender,1995-12-05,30,,
+G,Belgium,9,Defender,25,Nathan Ngoy,Lille,Defender,2003-06-10,23,,
+G,Belgium,9,Midfielder,6,Axel Witsel,Girona,Midfielder,1989-01-12,37,,Veteran
+G,Belgium,9,Midfielder,7,Kevin De Bruyne,Napoli,Midfielder,1991-06-28,34,star|captain|midfielder,Global star
+G,Belgium,9,Midfielder,8,Youri Tielemans,Aston Villa,Midfielder,1997-05-07,29,,Creative force
+G,Belgium,9,Midfielder,20,Hans Vanaken,Club Brugge,Midfielder,1992-08-24,33,,Football shirt collector
+G,Belgium,9,Midfielder,23,Nicolas Raskin,Rangers,Midfielder,2001-02-23,25,,
+G,Belgium,9,Midfielder,24,Amadou Onana,Aston Villa,Midfielder,2001-08-16,24,,Midfield powerhouse
+G,Belgium,9,Forward,9,Romelu Lukaku,Napoli,Forward,1993-05-13,33,attacker,Goal machine
+G,Belgium,9,Forward,10,Leandro Trossard,Arsenal,Forward (winger),1994-12-04,31,,
+G,Belgium,9,Forward,11,Jérémy Doku,Manchester City,Forward (winger),2002-05-27,24,,Speed bullet
+G,Belgium,9,Forward,14,Dodi Lukébakio,Benfica,Forward,1997-09-24,28,,
+G,Belgium,9,Forward,17,Charles De Ketelaere,Atalanta,Forward (winger),2001-03-10,25,,
+G,Belgium,9,Forward,19,Diego Moreira,Strasbourg,Forward,2004-08-06,21,breakout,
+G,Belgium,9,Forward,22,Alexis Saelemaekers,Milan,Forward,1999-06-27,26,,
+G,Belgium,9,Forward,26,Matias Fernandez-Pardo,Lille,Forward,2005-02-03,21,,
+G,Egypt,29,Coach,,Hossam Hassan,,Manager,,,,
+G,Egypt,29,Goalkeeper,1,Mohamed El-Shenawy,Al Ahly,Goalkeeper,1988-12-18,37,,The veteran
+G,Egypt,29,Goalkeeper,16,El Mahdy Soliman,Zamalek,Goalkeeper,1987-06-08,39,,
+G,Egypt,29,Goalkeeper,23,Mostafa ‘Oufa’ Shobeir,Al Ahly,Goalkeeper,2000-03-17,26,,From goalkeeping family
+G,Egypt,29,Goalkeeper,26,Mohamed Alaa,El Gouna,Goalkeeper,1999-01-01,27,,
+G,Egypt,29,Defender,2,Yasser Ibrahim,Al Ahly,Defender,1993-02-10,33,gem|defender,Late bloomer
+G,Egypt,29,Defender,3,Mohamed Hany,Al Ahly,Defender,1996-02-02,30,,One-club man
+G,Egypt,29,Defender,4,Hossam Abdelmaguid,Zamalek,Defender,2001-04-30,25,,On the rise
+G,Egypt,29,Defender,5,Ramy Rabia,Al Ain,Defender,1993-05-20,33,,Vocal leader
+G,Egypt,29,Defender,6,Mohamed Abdelmonem,Nice,Defender,1999-02-01,27,,
+G,Egypt,29,Defender,13,Ahmed Fatouh,Zamalek,Defender,1998-03-22,28,,
+G,Egypt,29,Defender,15,Karim Hafez,Pyramids FC,Defender,1996-03-12,30,,
+G,Egypt,29,Defender,24,Tarek Alaa,Pyramids FC,Defender,2002-01-05,24,,
+G,Egypt,29,Midfielder,8,Emam Ashour,Al Ahly,Midfielder,1998-02-20,28,midfielder,
+G,Egypt,29,Midfielder,11,Mostafa Ziko,Pyramids FC,Midfielder,1997-04-27,29,,Had to mature early
+G,Egypt,29,Midfielder,14,Hamdy Fathy,Al-Wakrah,Midfielder,1994-09-29,31,,Anchor
+G,Egypt,29,Midfielder,17,Mohanad Lasheen,Pyramids FC,Midfielder,1996-05-29,30,,
+G,Egypt,29,Midfielder,18,Nabil 'Dunga' Emad,Al-Najma,Midfielder,1996-04-06,30,,
+G,Egypt,29,Midfielder,19,Marwan Attia,Al Ahly,Midfielder,1998-08-01,27,,Midfield lynchpin
+G,Egypt,29,Midfielder,21,Mahmoud Saber,Pyramids FC,Midfielder,2001-07-30,24,,
+G,Egypt,29,Forward,7,Mahmoud Hassan ‘Trezeguet’,Al Ahly,Forward (winger),1994-10-01,31,,
+G,Egypt,29,Forward,9,Hamza Abdelkarim,Al Ahly,Forward,2008-01-01,18,,'The Egyptian Haaland'
+G,Egypt,29,Forward,10,Mohamed Salah,Liverpool,Forward (winger),1992-06-15,33,star|captain|attacker,National hero
+G,Egypt,29,Forward,12,Haissem Hassan,Real Oviedo,Forward (winger),2002-02-08,24,breakout,Newcomer
+G,Egypt,29,Forward,20,Ibrahim Adel,FC Nordsjælland,Forward (winger),2001-04-23,25,,Speed bullet
+G,Egypt,29,Forward,22,Omar Marmoush,Manchester City,Forward,1999-02-07,27,,
+G,Egypt,29,Forward,25,Ahmed Sayed ‘Zizo’,Al Ahly,Forward (winger),1996-01-10,30,,Unsung hero
+G,Iran,21,Coach,,Amir Ghalenoei,,Manager,,,,
+G,Iran,21,Goalkeeper,1,Alireza Beiranvand,Tractor,Goalkeeper,1992-09-21,33,,No 1 goalkeeper
+G,Iran,21,Goalkeeper,12,Payam Niazmand,Persepolis,Goalkeeper,1995-04-06,31,,
+G,Iran,21,Goalkeeper,22,Seyed Hossein Hosseini,Sepahan,Goalkeeper,1992-06-30,33,,
+G,Iran,21,Defender,2,Saleh Hardani,Esteghlal,Defender,1998-12-26,27,,
+G,Iran,21,Defender,3,Ehsan Hajsafi,Sepahan,Defender,1990-02-25,36,,Plays with anger
+G,Iran,21,Defender,4,Shoja Khalilzadeh,Tractor,Defender,1989-05-14,37,defender,No-nonsense
+G,Iran,21,Defender,5,Milad Mohammadi,Persepolis,Defender,1993-09-29,32,,
+G,Iran,21,Defender,13,Hossein Kanaani-Zadegan,Persepolis,Defender,1994-03-23,32,,Outspoken
+G,Iran,21,Defender,17,Aria Yousefi,Sepahan,Defender,2002-04-22,24,,
+G,Iran,21,Defender,19,Ali Nemati,Foolad Khuzestan,Defender,1996-02-07,30,,Helping others
+G,Iran,21,Defender,23,Ramin Rezaeian,Foolad Khuzestan,Defender,1990-03-21,36,,Showman
+G,Iran,21,Defender,25,Danial Eiri,Malavan,Defender,2003-10-26,22,,
+G,Iran,21,Midfielder,6,Saeid Ezatolahi,Shabab Al-Ahli,Midfielder,1996-10-01,29,midfielder,
+G,Iran,21,Midfielder,14,Saman Ghoddos,Al Ittihad Kalba,Midfielder,1993-09-06,32,,
+G,Iran,21,Midfielder,15,Rouzbeh Cheshmi,Esteghlal,Midfielder,1993-06-24,32,,
+G,Iran,21,Midfielder,21,Mohammad Ghorbani,Al Wahda,Midfielder,2001-05-21,25,,
+G,Iran,21,Midfielder,26,Amirmohammad Razzaghinia,Esteghlal,Midfielder,2006-04-11,20,breakout|gem,Future star
+G,Iran,21,Forward,7,Alireza Jahanbakhsh,Dender,Forward (winger),1993-08-11,32,,Well-travelled
+G,Iran,21,Forward,8,Mohammad Mohebi,Rostov,Forward (winger),1998-12-20,27,,
+G,Iran,21,Forward,9,Mehdi Taremi,Olympiakos,Forward,1992-07-18,33,,Inspiration
+G,Iran,21,Forward,10,Mehdi Ghaedi,Al Nassr,Forward (winger),1998-12-05,27,attacker|star,Game-changer
+G,Iran,21,Forward,11,Ali Alipour,Persepolis,Forward,1995-11-11,30,,
+G,Iran,21,Forward,16,Mehdi Torabi,Tractor,Forward (winger),1994-09-10,31,,
+G,Iran,21,Forward,18,Amirhossein Hosseinzadeh,Tractor,Forward,2000-10-30,25,,In-form goalscorer
+G,Iran,21,Forward,20,Shahriar Moghanloo,Kalba,Forward,1994-12-21,31,,Shock call-up
+G,Iran,21,Forward,24,Dennis-Yerai Eckert Ayensa,Standard Liège,Forward,1997-01-09,29,,
+G,New Zealand,85,Coach,,Darren Bazeley,,Manager,,,,
+G,New Zealand,85,Goalkeeper,1,Max Crocombe,Millwall,Goalkeeper,1993-08-12,32,,
+G,New Zealand,85,Goalkeeper,12,Alex Paulsen,Bournemouth,Goalkeeper,2002-07-04,23,,
+G,New Zealand,85,Goalkeeper,22,Michael Woud,Auckland FC,Goalkeeper,1999-01-16,27,,
+G,New Zealand,85,Defender,2,Tim Payne,Wellington Phoenix,Defender,1994-01-10,32,defender,Social media star
+G,New Zealand,85,Defender,3,Francis de Vries,Auckland FC,Defender,1994-11-28,31,,Psychology buff
+G,New Zealand,85,Defender,4,Tyler Bindon,Sheffield United,Defender,2005-01-27,21,,Mr Calm
+G,New Zealand,85,Defender,5,Michael Boxall,Minnesota United,Defender,1988-08-18,37,,Trainers aficionado
+G,New Zealand,85,Defender,13,Liberato Cacace,Wrexham,Defender,2000-09-27,25,,Influential
+G,New Zealand,85,Defender,15,Nando Pijnaker,Auckland FC,Defender,1999-02-25,27,,
+G,New Zealand,85,Defender,16,Finn Surman,Portland,Defender,2003-09-23,22,,
+G,New Zealand,85,Defender,24,Callan Elliot,Auckland FC,Defender,1999-07-07,26,,
+G,New Zealand,85,Defender,26,Tommy Smith,Braintree Town,Defender,1990-03-31,36,captain,Experienced
+G,New Zealand,85,Midfielder,6,Joe Bell,Viking,Midfielder,1999-04-27,27,midfielder,All-round midfielder
+G,New Zealand,85,Midfielder,7,Matt Garbett,Peterborough United,Midfielder,2002-04-13,24,,
+G,New Zealand,85,Midfielder,8,Marko Stamenić,Swansea City,Midfielder,2002-02-19,24,,
+G,New Zealand,85,Midfielder,10,Sarpreet Singh,Backa Topola,Midfielder,1999-02-20,27,,
+G,New Zealand,85,Midfielder,14,Alex Rufer,Wellington Phoenix,Midfielder,1996-06-12,29,,Keen fisher
+G,New Zealand,85,Midfielder,23,Ryan Thomas,PEC Zwolle,Midfielder,1994-12-20,31,,Comeback kid
+G,New Zealand,85,Midfielder,25,Lachlan Bayliss,Newcastle Jets,Midfielder,2002-07-24,23,,
+G,New Zealand,85,Forward,9,Chris Wood,Nottingham Forest,Forward,1991-12-07,34,attacker|star,Goal machine
+G,New Zealand,85,Forward,11,Eli Just,Motherwell,Forward (winger),2000-05-01,26,,
+G,New Zealand,85,Forward,17,Kosta Barbarouses,Western Sydney Wanderers,Forward (winger),1990-02-19,36,,
+G,New Zealand,85,Forward,18,Ben Waine,Port Vale,Forward,2001-06-11,25,,Interested in psychology
+G,New Zealand,85,Forward,19,Ben Old,St Étienne,Forward (winger),2002-08-13,23,breakout,Golf child prodigy
+G,New Zealand,85,Forward,20,Callum McCowatt,Silkeborg,Forward (winger),1999-04-30,27,,
+G,New Zealand,85,Forward,21,Jesse Randall,Auckland FC,Forward (winger),2002-08-19,23,gem,Surprise call-up
+H,Spain,2,Coach,,Luis de la Fuente,,Manager,,,,
+H,Spain,2,Goalkeeper,1,David Raya,Arsenal,Goalkeeper,1995-09-15,30,,Former futsal player
+H,Spain,2,Goalkeeper,13,Joan García,Barcelona,Goalkeeper,2001-05-04,25,,
+H,Spain,2,Goalkeeper,23,Unai Simón,Athletic Club,Goalkeeper,1997-06-11,29,,No 1 goalkeeper
+H,Spain,2,Defender,2,Marc Pubill,Atlético Madrid,Defender,2003-06-20,22,,
+H,Spain,2,Defender,3,Álex Grimaldo,Bayer Leverkusen,Defender,1995-09-20,30,,Dead-ball specialist
+H,Spain,2,Defender,4,Eric García,Barcelona,Defender,2001-01-09,25,,
+H,Spain,2,Defender,5,Marcos Llorente,Atlético Madrid,Defender,1995-01-30,31,,Polarising figure
+H,Spain,2,Defender,12,Pedro Porro,Tottenham,Defender,1999-09-13,26,,Street player
+H,Spain,2,Defender,14,Aymeric Laporte,Athletic Club,Defender,1994-05-27,32,,
+H,Spain,2,Defender,22,Pau Cubarsí,Barcelona,Defender,2007-01-22,19,defender|captain,Young leader
+H,Spain,2,Defender,24,Marc Cucurella,Chelsea,Defender,1998-07-22,27,,
+H,Spain,2,Midfielder,6,Mikel Merino,Arsenal,Midfielder,1996-06-22,29,,
+H,Spain,2,Midfielder,8,Fabián Ruiz,Paris St-Germain,Midfielder,1996-04-03,30,,
+H,Spain,2,Midfielder,9,Gavi,Barcelona,Midfielder,2004-08-05,21,,
+H,Spain,2,Midfielder,10,Dani Olmo,Barcelona,Midfielder,1998-05-07,28,,
+H,Spain,2,Midfielder,15,Álex Baena,Atlético Madrid,Midfielder,2001-07-20,24,,
+H,Spain,2,Midfielder,16,Rodri,Manchester City,Midfielder,1996-06-22,29,,Ballon d'Or winner
+H,Spain,2,Midfielder,18,Martín Zubimendi,Arsenal,Midfielder,1999-02-02,27,,Mr Consistent
+H,Spain,2,Midfielder,20,Pedri,Barcelona,Midfielder,2002-11-25,23,midfielder,Tempo-setter
+H,Spain,2,Forward,7,Ferran Torres,Barcelona,Forward (winger),2000-02-29,26,,
+H,Spain,2,Forward,11,Yéremy Pino,Crystal Palace,Forward (winger),2002-10-20,23,,
+H,Spain,2,Forward,17,Nico Williams,Athletic Club,Forward (winger),2002-07-12,23,,
+H,Spain,2,Forward,19,Lamine Yamal,Barcelona,Forward (winger),2007-07-13,18,star|breakout|attacker|gem,Super star
+H,Spain,2,Forward,21,Mikel Oyarzabal,Real Sociedad,Forward,1997-04-21,29,,
+H,Spain,2,Forward,25,Víctor Muñoz,Osasuna,Forward (winger),2003-07-13,22,,
+H,Spain,2,Forward,26,Borja Iglesias,Celta Vigo,Forward,1993-01-17,33,,
+H,Uruguay,17,Coach,,Marcelo Bielsa,,Manager,,,,
+H,Uruguay,17,Goalkeeper,1,Sergio Rochet,Internacional,Goalkeeper,1993-03-23,33,,
+H,Uruguay,17,Goalkeeper,12,Santiago Mele,Monterrey,Goalkeeper,1997-09-06,28,,
+H,Uruguay,17,Goalkeeper,23,Fernando Muslera,Estudiantes de La Plata,Goalkeeper,1986-06-16,39,,History maker
+H,Uruguay,17,Defender,2,José María Giménez,Atlético Madrid,Defender,1995-01-20,31,captain,Captain
+H,Uruguay,17,Defender,3,Sebastián Cáceres,Club América,Defender,1999-08-18,26,,
+H,Uruguay,17,Defender,4,Ronald Araújo,Barcelona,Defender,1999-03-07,27,defender,Defensive rock
+H,Uruguay,17,Defender,13,Guillermo Varela,Flamengo,Defender,1993-03-24,33,,Comeback kid
+H,Uruguay,17,Defender,16,Mathías Olivera,Napoli,Defender,1997-10-31,28,,
+H,Uruguay,17,Defender,17,Matías Viña,River Plate,Defender,1997-11-09,28,,Resilient
+H,Uruguay,17,Defender,22,Joaquín Piquerez,Palmeiras,Defender,1998-08-24,27,,
+H,Uruguay,17,Defender,24,Santiago Bueno,Wolves,Defender,1998-11-09,27,,
+H,Uruguay,17,Defender,25,Juan Manuel Sanabria,Real Salt Lake,Defender,2000-03-29,26,,Versatile
+H,Uruguay,17,Midfielder,5,Manuel Ugarte,Manchester United,Midfielder,2001-04-11,25,,‘El Poeta’
+H,Uruguay,17,Midfielder,6,Rodrigo Bentancur,Tottenham,Midfielder,1997-06-25,28,,
+H,Uruguay,17,Midfielder,7,Nicolás de la Cruz,Flamengo,Midfielder,1997-06-01,29,,
+H,Uruguay,17,Midfielder,8,Federico Valverde,Real Madrid,Midfielder,1998-07-22,27,star|midfielder,Talisman
+H,Uruguay,17,Midfielder,10,Giorgian de Arrascaeta,Flamengo,Midfielder,1994-06-01,32,,Icon in Brazil
+H,Uruguay,17,Midfielder,14,Agustín Canobbio,Fluminense,Midfielder,1998-10-01,27,,
+H,Uruguay,17,Midfielder,15,Emiliano Martínez,Palmeiras,Midfielder,1999-08-17,26,,
+H,Uruguay,17,Midfielder,26,Rodrigo Zalazar,Braga,Midfielder,1999-08-12,26,,
+H,Uruguay,17,Forward,9,Darwin Núñez,Al-Hilal,Forward,1999-06-24,26,attacker,Trump card
+H,Uruguay,17,Forward,11,Facundo Pellistri,Panathinaikos,Forward (winger),2001-12-20,24,,
+H,Uruguay,17,Forward,18,Brian Rodríguez,Club América,Forward (winger),2000-05-20,26,,
+H,Uruguay,17,Forward,19,Rodrigo Aguirre,Tigres,Forward,1994-10-01,31,,
+H,Uruguay,17,Forward,20,Maximiliano Araújo,Sporting,Forward (winger),2000-02-15,26,,
+H,Uruguay,17,Forward,21,Federico Viñas,León,Forward,1998-06-30,27,,Former meat packer
+H,Cape Verde,69,Coach,,Bubista,,Manager,,,,
+H,Cape Verde,69,Goalkeeper,1,Josimar ‘Vozinha’ Dias,Chaves,Goalkeeper,1986-06-03,40,,National treasure
+H,Cape Verde,69,Goalkeeper,12,Marcio da Rosa,PFC Montana,Goalkeeper,1997-02-23,29,,
+H,Cape Verde,69,Goalkeeper,23,Carlos ‘CJ’ Dos Santos,San Diego FC,Goalkeeper,2000-08-24,25,,
+H,Cape Verde,69,Defender,2,Ianique ‘Stopira’ Tavares,Torrense,Defender,1988-05-20,38,defender,
+H,Cape Verde,69,Defender,3,‘Diney’ Borges,Al Bataeh,Defender,1995-01-17,31,,
+H,Cape Verde,69,Defender,4,Roberto ‘Pico’ Lopes,Shamrock Rovers,Defender,1992-06-17,33,,Shirt tucked in
+H,Cape Verde,69,Defender,5,Logan Costa,Villarreal,Defender,2001-04-01,25,,Elite defender
+H,Cape Verde,69,Defender,8,João Paulo Fernandes,FCSB,Defender,1998-05-26,28,,
+H,Cape Verde,69,Defender,13,Sidny Lopes Cabral,Benfica,Defender,2002-09-18,23,gem,One for the future
+H,Cape Verde,69,Defender,22,Steven Moreira,Columbus Crew,Defender,1994-08-13,31,,Straight-talking
+H,Cape Verde,69,Defender,24,Wagner Pina,Trabzonspor,Defender,2002-11-03,23,,
+H,Cape Verde,69,Defender,25,Kelvin Pires,SJK,Defender,2000-06-05,26,,
+H,Cape Verde,69,Midfielder,6,Kevin Lenini Pina,Krasnodar,Midfielder,1997-01-27,29,midfielder,
+H,Cape Verde,69,Midfielder,10,Jamiro Monteiro,PEC Zwolle,Midfielder,1993-11-23,32,,Creative heartbeat
+H,Cape Verde,69,Midfielder,11,Garry Rodrigues,Apollon Limassol,Midfielder,1990-11-27,35,,Former postman
+H,Cape Verde,69,Midfielder,14,Deroy Duarte,Ludogorets Razgrad,Midfielder,1999-07-04,26,,Midfield anchor
+H,Cape Verde,69,Midfielder,15,Laros Duarte,Puskás Akadémia,Midfielder,1997-02-28,29,,
+H,Cape Verde,69,Midfielder,16,Yannick Semedo,Farense,Midfielder,1995-12-29,30,,
+H,Cape Verde,69,Midfielder,18,Telmo Arcanjo,Vitória de Guimarães,Midfielder,2001-06-21,24,,Maverick
+H,Cape Verde,69,Midfielder,20,Ryan Mendes,Igdir,Midfielder,1990-01-08,36,captain,Captain and GOAT
+H,Cape Verde,69,Forward,7,Jovane Cabral,Unattached,Forward,1998-06-14,27,attacker|star,Gamechanger
+H,Cape Verde,69,Forward,9,Gilson ‘Benchimol’ Tavares,Akron Tolyatti,Forward,2001-12-29,24,,Former right-back
+H,Cape Verde,69,Forward,17,Willy Semedo,Omonia Nicosia,Forward,1994-04-27,32,,Livewire
+H,Cape Verde,69,Forward,19,Dailon Livramento,Casa Pia,Forward,2001-05-04,25,,Star boy
+H,Cape Verde,69,Forward,21,Nuno da Costa,Basaksehir,Forward,1991-02-10,35,,
+H,Cape Verde,69,Forward,26,Helio Varela,Maccabi Tel-Aviv,Forward,2002-05-03,24,,
+H,Saudi Arabia,61,Coach,,Georgios Donis,,Manager,,,,
+H,Saudi Arabia,61,Goalkeeper,1,Nawaf Al-Aqidi,Al-Nassr,Goalkeeper,2000-05-10,26,,No 1 goalkeeper
+H,Saudi Arabia,61,Goalkeeper,21,Mohammed Al-Owais,Al-Ula,Goalkeeper,1991-10-10,34,,2022 hero
+H,Saudi Arabia,61,Goalkeeper,22,Ahmed Al-Kassar,Al-Qadsiah,Goalkeeper,1991-05-08,35,,Veteran
+H,Saudi Arabia,61,Defender,2,Ali Majrashi,Al-Ahli,Defender,1999-10-02,26,,Calm in possession
+H,Saudi Arabia,61,Defender,3,Ali Lajami,Al-Hilal,Defender,1996-04-24,30,,Given another chance
+H,Saudi Arabia,61,Defender,4,Abdulelah Al-Amri,Al-Nassr,Defender,1997-01-15,29,,
+H,Saudi Arabia,61,Defender,5,Hassan Al-Tambakti,Al-Hilal,Defender,1999-02-09,27,defender|captain,Defensive leader
+H,Saudi Arabia,61,Defender,12,Saud Abdulhamid,Lens,Defender,1999-07-18,26,,
+H,Saudi Arabia,61,Defender,13,Nawaf Boushal,Al-Nassr,Defender,1999-09-16,26,,Speedster
+H,Saudi Arabia,61,Defender,14,Hassan Kadesh,Al-Ittihad,Defender,1992-09-26,33,,History maker
+H,Saudi Arabia,61,Defender,24,Moteb Al-Harbi,Al-Hilal,Defender,2000-02-20,26,,
+H,Saudi Arabia,61,Defender,25,Jehad Thakri,Al-Qadsiah,Defender,2001-07-21,24,,
+H,Saudi Arabia,61,Defender,26,Mohammed Abu Al-Shamat,Al-Qadsiah,Defender,2002-08-11,23,,
+H,Saudi Arabia,61,Midfielder,6,Nasser Al-Dawsari,Al-Hilal,Midfielder,1998-12-19,27,,Big-game player
+H,Saudi Arabia,61,Midfielder,7,Musab Al-Juwayr,Al-Qadsiah,Midfielder,2003-06-20,22,,
+H,Saudi Arabia,61,Midfielder,8,Ayman Yahya,Al-Nassr,Midfielder,2001-05-14,25,,
+H,Saudi Arabia,61,Midfielder,15,Abdullah Al-Khaibari,Al-Nassr,Midfielder,1996-08-16,29,,
+H,Saudi Arabia,61,Midfielder,16,Ziyad Al-Johani,Al-Ahli,Midfielder,2001-11-11,24,midfielder,Running machine
+H,Saudi Arabia,61,Midfielder,17,Khalid Al-Ghannam,Al-Ettifaq,Midfielder,2000-11-07,25,,
+H,Saudi Arabia,61,Midfielder,18,Alaa Al-Hejji,Neom,Midfielder,1995-12-03,30,,Former futsal player
+H,Saudi Arabia,61,Midfielder,23,Mohamed Kanno,Al-Hilal,Midfielder,1994-09-22,31,,Box-to-box
+H,Saudi Arabia,61,Forward,9,Firas Al-Buraikan,Al-Ahli,Forward,2000-05-14,26,attacker|star,
+H,Saudi Arabia,61,Forward,10,Salem Al-Dawsari,Al-Hilal,Forward,1991-08-19,34,,'The Saudi Messi'
+H,Saudi Arabia,61,Forward,11,Saleh Al-Shehri,Al-Ittihad,Forward,1993-11-01,32,,Old-fashioned No 9
+H,Saudi Arabia,61,Forward,19,Abdullah Al-Hamdan,Al-Nassr,Forward,1999-09-13,26,,
+H,Saudi Arabia,61,Forward,20,Sultan Mandash,Al-Hilal,Forward,1994-10-17,31,gem,Surprise call-up
+I,France,1,Coach,,Didier Deschamps,,Manager,,,,
+I,France,1,Goalkeeper,1,Brice Samba,Rennes,Goalkeeper,1994-04-25,32,,
+I,France,1,Goalkeeper,16,Mike Maignan,Milan,Goalkeeper,1995-07-03,30,,Reliable
+I,France,1,Goalkeeper,23,Robin Risser,Lens,Goalkeeper,2004-12-02,21,,
+I,France,1,Defender,2,Malo Gusto,Chelsea,Defender,2003-05-19,23,,Ambitious
+I,France,1,Defender,3,Lucas Digne,Aston Villa,Defender,1993-07-20,32,,In a good place
+I,France,1,Defender,4,Dayot Upamecano,Bayern Munich,Defender,1998-10-27,27,,
+I,France,1,Defender,5,Jules Koundé,Barcelona,Defender,1998-11-12,27,,
+I,France,1,Defender,15,Ibrahima Konaté,Free agent,Defender,1999-05-25,27,,
+I,France,1,Defender,17,William Saliba,Arsenal,Defender,2001-03-24,25,defender,Defensive rock
+I,France,1,Defender,19,Théo Hernández,Al-Hilal,Defender,1997-10-06,28,,
+I,France,1,Defender,21,Lucas Hernández,Paris St-Germain,Defender,1996-02-14,30,,
+I,France,1,Defender,26,Maxence Lacroix,Crystal Palace,Defender,2000-04-06,26,,Keen to help others
+I,France,1,Midfielder,6,Manu Koné,Roma,Midfielder,2001-05-17,25,,
+I,France,1,Midfielder,8,Aurélien Tchouaméni,Real Madrid,Midfielder,2000-01-27,26,midfielder,
+I,France,1,Midfielder,13,N'Golo Kanté,Fenerbahce,Midfielder,1991-03-29,35,,Veteran
+I,France,1,Midfielder,14,Adrien Rabiot,Milan,Midfielder,1995-04-03,31,,
+I,France,1,Midfielder,18,Warren Zaïre-Emery,Paris St-Germain,Midfielder,2006-03-08,20,gem,Comeback kid
+I,France,1,Forward,7,Ousmane Dembélé,Paris St-Germain,Forward,1997-05-15,29,,Ballon d’Or winner
+I,France,1,Forward,9,Marcus Thuram,Inter,Forward,1997-08-06,28,,
+I,France,1,Forward,10,Kylian Mbappé,Real Madrid,Forward,1998-12-20,27,star|captain|attacker,Captain
+I,France,1,Forward,11,Michael Olise,Bayern Munich,Forward,2001-12-12,24,,
+I,France,1,Forward,12,Bradley Barcola,Paris St-Germain,Forward (winger),2002-09-02,23,,
+I,France,1,Forward,20,Désiré Doué,Paris St-Germain,Forward (winger),2005-06-03,21,,
+I,France,1,Forward,22,Jean-Philippe Mateta,Crystal Palace,Forward,1997-06-28,28,,
+I,France,1,Forward,24,Rayan Cherki,Manchester City,Forward,2003-08-17,22,breakout,Creative force
+I,France,1,Forward,25,Maghnes Akliouche,Monaco,Forward,2002-02-25,24,,
+I,Senegal,14,Coach,,Pape Thiaw,,Manager,,,,
+I,Senegal,14,Goalkeeper,1,Yehvann Diouf,Nice,Goalkeeper,1999-11-16,26,,
+I,Senegal,14,Goalkeeper,16,Édouard Mendy,Al-Ahli,Goalkeeper,1992-03-01,34,,No 1 goalkeeper
+I,Senegal,14,Goalkeeper,23,Mory Diaw,Le Havre,Goalkeeper,1993-06-22,32,,
+I,Senegal,14,Defender,2,Mamadou Sarr,Chelsea,Defender,2005-08-29,20,,
+I,Senegal,14,Defender,3,Kalidou Koulibaly,Al-Hilal,Defender,1991-06-20,34,captain|defender,Historic skipper
+I,Senegal,14,Defender,4,Abdoulaye Seck,Maccabi Haifa,Defender,1992-06-04,34,,
+I,Senegal,14,Defender,14,Ismail Jakobs,Galatasaray,Defender,1999-08-17,26,,
+I,Senegal,14,Defender,19,Moussa Niakhaté,Lyon,Defender,1996-03-08,30,,Intelligent player
+I,Senegal,14,Defender,24,Antoine Mendy,Nice,Defender,2004-05-27,22,,Former striker
+I,Senegal,14,Defender,25,El Hadji Malick Diouf,West Ham,Defender,2004-12-29,21,,
+I,Senegal,14,Midfielder,5,Idrissa ‘Gana’ Gueye,Everton,Midfielder,1989-09-26,36,,
+I,Senegal,14,Midfielder,6,Pathé Ciss,Rayo Vallecano,Midfielder,1994-03-16,32,,
+I,Senegal,14,Midfielder,8,Lamine Camara,Monaco,Midfielder,2004-01-01,22,,Tempo-setter
+I,Senegal,14,Midfielder,17,Pape Matar Sarr,Tottenham,Midfielder,2002-09-14,23,,Powerful shot
+I,Senegal,14,Midfielder,21,Habib Diarra,Sunderland,Midfielder,2004-01-03,22,midfielder,Midfield engine
+I,Senegal,14,Midfielder,22,Bara Sapoko Ndiaye,Bayern Munich,Midfielder,2007-12-31,18,,Young wild card
+I,Senegal,14,Midfielder,26,Pape Gueye,Villarreal,Midfielder,1999-01-24,27,,
+I,Senegal,14,Forward,7,Assane Diao,Como,Forward,2005-09-07,20,,
+I,Senegal,14,Forward,9,Bamba Dieng,Lorient,Forward,2000-03-23,26,,
+I,Senegal,14,Forward,10,Sadio Mané,Al-Nassr,Forward,1992-04-10,34,star,National hero
+I,Senegal,14,Forward,11,Nicolas Jackson,Chelsea,Forward,2001-06-20,24,attacker,
+I,Senegal,14,Forward,12,Cherif Ndiaye,Samsunspor,Forward,1996-01-23,30,,
+I,Senegal,14,Forward,13,Iliman Ndiaye,Everton,Forward,2000-03-06,26,,
+I,Senegal,14,Forward,15,Krépin Diatta,Monaco,Forward,1999-02-25,27,,
+I,Senegal,14,Forward,18,Ismaïla Sarr,Crystal Palace,Forward,1998-02-25,28,,
+I,Senegal,14,Forward,20,Ibrahim Mbaye,Paris St-Germain,Forward,2008-01-24,18,breakout|gem,Next big thing
+I,Norway,31,Coach,,Stale Solbakken,,Manager,,,,
+I,Norway,31,Goalkeeper,1,Ørjan Håskjold Nyland,Sevilla,Goalkeeper,1990-09-10,35,,No 1 goalkeeper
+I,Norway,31,Goalkeeper,12,Sander Tangvik,Hamburg,Goalkeeper,2002-11-29,23,,
+I,Norway,31,Goalkeeper,13,Egil Selvik,Watford,Goalkeeper,1997-07-30,28,,
+I,Norway,31,Defender,3,Kristoffer Ajer,Brentford,Defender,1998-04-17,28,defender,Defensive leader
+I,Norway,31,Defender,4,Leo Østigård,Genoa,Defender,1999-11-28,26,,Strong in the air
+I,Norway,31,Defender,5,David Møller Wolfe,Wolves,Defender,2002-04-23,24,,
+I,Norway,31,Defender,15,Fredrik André Bjørkan,Bodø/Glimt,Defender,1998-08-21,27,,
+I,Norway,31,Defender,16,Marcus Holmgren Pedersen,Torino,Defender,2000-07-16,25,,Fighter
+I,Norway,31,Defender,17,Torbjørn Heggem,Bologna,Defender,1999-01-12,27,,
+I,Norway,31,Defender,24,Sondre Langås,Derby County,Defender,2001-02-02,25,,
+I,Norway,31,Defender,25,Henrik Falchener,Viking,Defender,2003-05-08,23,gem,Surprise call-up
+I,Norway,31,Defender,26,Julian Ryerson,Borussia Dortmund,Defender,1997-11-17,28,,Maverick
+I,Norway,31,Midfielder,2,Morten Thorsby,Cremonese,Midfielder,1996-05-05,30,,Environmentalist
+I,Norway,31,Midfielder,6,Patrick Berg,Bodø/Glimt,Midfielder,1997-11-24,28,,
+I,Norway,31,Midfielder,8,Sander Berge,Fulham,Midfielder,1998-02-14,28,,Infectious personality
+I,Norway,31,Midfielder,10,Martin Ødegaard,Arsenal,Midfielder,1998-12-17,27,captain|midfielder,A joy to watch
+I,Norway,31,Midfielder,14,Fredrik Aursnes,Benfica,Midfielder,1995-12-10,30,,
+I,Norway,31,Midfielder,18,Kristian Thorstvedt,Sassuolo,Midfielder,1999-03-13,27,,Intelligent player
+I,Norway,31,Midfielder,19,Thelo Aasgaard,Rangers,Midfielder,2002-05-02,24,,
+I,Norway,31,Forward,7,Alexander Sørloth,Atlético Madrid,Forward,1995-12-05,30,,
+I,Norway,31,Forward,9,Erling Haaland,Manchester City,Forward,2000-07-21,25,star|attacker,Superstar
+I,Norway,31,Forward,11,Jørgen Strand Larsen,Crystal Palace,Forward,2000-02-06,26,,
+I,Norway,31,Forward,20,Antonio Nusa,RB Leipzig,Forward (winger),2005-04-17,21,breakout,Speedster
+I,Norway,31,Forward,21,Andreas Schjelderup,Benfica,Forward (winger),2004-06-01,22,,
+I,Norway,31,Forward,22,Oscar Bobb,Fulham,Forward (winger),2003-07-12,22,,
+I,Norway,31,Forward,23,Jens Petter Hauge,Bodø/Glimt,Forward (winger),1999-10-12,26,,Comeback kid
+I,Iraq,57,Coach,,Graham Arnold,,Manager,,,,
+I,Iraq,57,Goalkeeper,1,Fahad Talib,Al-Talaba,Goalkeeper,1994-10-21,31,,From a goalkeeping family
+I,Iraq,57,Goalkeeper,12,Jalal Hassan,Al-Zawraa,Goalkeeper,1991-05-18,35,,No 1 goalkeeper
+I,Iraq,57,Goalkeeper,22,Ahmed Basil,Al-Shorta,Goalkeeper,1996-08-19,29,,
+I,Iraq,57,Defender,2,Rebin Sulaka,FC Port,Defender,1992-04-12,34,captain|defender,Well-travelled veteran
+I,Iraq,57,Defender,3,Hussein Ali,Pogon Szczecin,Defender,2002-03-01,24,,
+I,Iraq,57,Defender,4,Zaid Tahseen,Pakhtakor FC,Defender,2001-01-29,25,,
+I,Iraq,57,Defender,5,Akam Hashem,Al-Zawraa,Defender,1998-08-16,27,,
+I,Iraq,57,Defender,6,Manaf Younis,Al-Shorta,Defender,1996-11-16,29,,Former striker
+I,Iraq,57,Defender,15,Ahmed Yahya,Al-Shorta,Defender,1995-07-01,30,,
+I,Iraq,57,Defender,23,Merchas Doski,Viktoria Plzen,Defender,1999-12-07,26,,Former bricklayer
+I,Iraq,57,Defender,25,Mustafa Saadoon,Al-Shorta,Defender,2001-05-25,25,,University graduate
+I,Iraq,57,Defender,26,Frans Putros,Persib Bandung,Defender,1993-07-14,32,,
+I,Iraq,57,Midfielder,7,Youssef Amyn,AEK Larnaca,Midfielder,2003-08-21,22,midfielder|gem,
+I,Iraq,57,Midfielder,8,Ibrahim Bayesh,Al-Dhafra,Midfielder,2000-05-01,26,,Divides opinion
+I,Iraq,57,Midfielder,11,Ahmed Qasim,Nashville,Midfielder,2003-07-12,22,,
+I,Iraq,57,Midfielder,14,Zidane Iqbal,Utrectht,Midfielder,2003-04-27,23,,Manchester United product
+I,Iraq,57,Midfielder,16,Amir Al-Ammari,Cracovia,Midfielder,1997-07-27,28,,Leader
+I,Iraq,57,Midfielder,19,Kevin Yakob,AGF,Midfielder,2000-10-10,25,,Positive outlook
+I,Iraq,57,Midfielder,20,Aimar Sher,Sarpsborg,Midfielder,2002-12-20,23,,
+I,Iraq,57,Midfielder,24,Zaid Ismail,Al-Talaba,Midfielder,2002-01-03,24,,
+I,Iraq,57,Forward,9,Ali Al-Hamadi,Ipswich,Forward,2002-03-01,24,,History maker
+I,Iraq,57,Forward,10,Mohanad Ali,Dibba,Forward,2000-06-20,25,,
+I,Iraq,57,Forward,13,Ali Yousef,Al-Talaba,Forward,1996-01-19,30,,
+I,Iraq,57,Forward,17,Ali Jassim,Como,Forward (winger),2004-01-20,22,attacker|star,Game-changer
+I,Iraq,57,Forward,18,Aymen Hussein,Al-Karma,Forward,1996-03-22,30,,Has overcome tragedy
+I,Iraq,57,Forward,21,Marko Farji,Venezia,Forward (winger),2004-03-16,22,breakout,Child prodigy
+J,Argentina,3,Coach,,Lionel Scaloni,,Manager,,,,
+J,Argentina,3,Goalkeeper,1,Juan Musso,Atlético Madrid,Goalkeeper,1994-05-06,32,,Provides energy
+J,Argentina,3,Goalkeeper,12,Gerónimo Rulli,Marseille,Goalkeeper,1992-05-20,34,,
+J,Argentina,3,Goalkeeper,23,Emiliano Martínez,Aston Villa,Goalkeeper,1992-09-02,33,,Fans' favourite
+J,Argentina,3,Defender,2,Leonardo Balerdi,Marseille,Defender,1999-01-26,27,,
+J,Argentina,3,Defender,3,Nicolás Tagliafico,Lyon,Defender,1992-08-31,33,,Keen drawer
+J,Argentina,3,Defender,4,Gonzalo Montiel,River Plate,Defender,1997-01-01,29,,
+J,Argentina,3,Defender,6,Lisandro Martínez,Manchester United,Defender,1998-01-18,28,,'The Butcher'
+J,Argentina,3,Defender,13,Cristian Romero,Tottenham,Defender,1998-04-27,28,defender,
+J,Argentina,3,Defender,19,Nicolás Otamendi,Benfica,Defender,1988-02-12,38,,'El General'
+J,Argentina,3,Defender,25,Facundo Medina,Marseille,Defender,1999-05-28,27,,
+J,Argentina,3,Defender,26,Nahuel Molina,Atlético Madrid,Defender,1998-04-06,28,,
+J,Argentina,3,Midfielder,5,Leandro Paredes,Boca Juniors,Midfielder,1994-06-29,31,,Keen padel player
+J,Argentina,3,Midfielder,7,Rodrigo De Paul,Inter Miami,Midfielder,1994-05-24,32,,Messi's bodyguard
+J,Argentina,3,Midfielder,8,Valentín Barco,Strasbourg,Midfielder,2004-07-23,21,gem,Versatile
+J,Argentina,3,Midfielder,11,Giovani Lo Celso,Real Betis,Midfielder,1996-04-09,30,,
+J,Argentina,3,Midfielder,14,Exequiel Palacios,Bayer Leverkusen,Midfielder,1998-10-05,27,,
+J,Argentina,3,Midfielder,15,Nicolás González,Atlético Madrid,Midfielder,1998-04-06,28,,
+J,Argentina,3,Midfielder,16,Thiago Almada,Atlético Madrid,Midfielder,2001-04-26,25,,Street footballer
+J,Argentina,3,Midfielder,18,Nico Paz,Como,Midfielder,2004-09-08,21,breakout,
+J,Argentina,3,Midfielder,20,Alexis Mac Allister,Liverpool,Midfielder,1998-12-24,27,,Tattoo fanatic
+J,Argentina,3,Midfielder,24,Enzo Fernández,Chelsea,Midfielder,2001-01-17,25,midfielder,
+J,Argentina,3,Forward,9,Julián Álvarez,Atlético Madrid,Forward,2000-01-31,26,attacker,Complete striker
+J,Argentina,3,Forward,10,Lionel Messi,Inter Miami,Forward,1987-06-24,38,star|captain,Super star
+J,Argentina,3,Forward,17,Giuliano Simeone,Atlético Madrid,Forward (winger),2002-12-18,23,,
+J,Argentina,3,Forward,21,José López,Palmeiras,Forward,2000-12-06,25,,
+J,Argentina,3,Forward,22,Lautaro Martínez,Inter,Forward,1997-08-22,28,,Main goalscorer
+J,Austria,24,Coach,,Ralf Rangnick,,Manager,,,,
+J,Austria,24,Goalkeeper,1,Alexander Schlager,Red Bull Salzburg,Goalkeeper,1996-02-01,30,,
+J,Austria,24,Goalkeeper,12,Florian Wiegele,Viktoria Plzeň,Goalkeeper,2001-03-21,25,,
+J,Austria,24,Goalkeeper,13,Patrick Pentz,Brøndby,Goalkeeper,1997-01-02,29,,Harry Potter Lego fan
+J,Austria,24,Defender,2,David Affengruber,Elche,Defender,2001-03-19,25,,'Affenbauer'
+J,Austria,24,Defender,3,Kevin Danso,Tottenham,Defender,1998-09-19,27,,Strong in the air
+J,Austria,24,Defender,5,Stefan Posch,Como,Defender,1997-05-14,29,,Managing director
+J,Austria,24,Defender,8,David Alaba,Real Madrid,Defender,1992-06-24,33,star|captain|defender,Defensive rock
+J,Austria,24,Defender,15,Philipp Lienhart,Freiburg,Defender,1996-07-11,29,,
+J,Austria,24,Defender,16,Phillipp Mwene,Mainz 05,Defender,1994-01-29,32,,Problem solver
+J,Austria,24,Defender,22,Alexander Prass,Hoffenheim,Defender,2001-05-26,25,,Energy provider
+J,Austria,24,Defender,23,Marco Friedl,Werder Bremen,Defender,1998-03-16,28,,
+J,Austria,24,Defender,25,Michael Svoboda,Venezia,Defender,1998-10-15,27,,
+J,Austria,24,Midfielder,4,Xaver Schlager,RB Leipzig,Midfielder,1997-09-28,28,,Restaurant owner
+J,Austria,24,Midfielder,6,Nicolas Seiwald,RB Leipzig,Midfielder,2001-05-04,25,,
+J,Austria,24,Midfielder,9,Marcel Sabitzer,Borussia Dortmund,Midfielder,1994-03-17,32,,Creative force
+J,Austria,24,Midfielder,10,Florian Grillitsch,Sporting Braga,Midfielder,1995-08-07,30,,
+J,Austria,24,Midfielder,17,Carney Chukwuemeka,Borussia Dortmund,Midfielder,2003-10-20,22,,
+J,Austria,24,Midfielder,18,Romano Schmid,Werder Bremen,Midfielder,2000-01-27,26,,
+J,Austria,24,Midfielder,19,Christoph Baumgartner,RB Leipzig,Midfielder,1999-08-01,26,,
+J,Austria,24,Midfielder,20,Konrad Laimer,Bayern Munich,Midfielder,1997-05-27,29,midfielder,
+J,Austria,24,Midfielder,21,Patrick Wimmer,Wolfsburg,Midfielder,2001-05-30,25,,Former weightlifter
+J,Austria,24,Midfielder,24,Paul Wanner,PSV Eindhoven,Midfielder,2005-12-23,20,breakout,
+J,Austria,24,Midfielder,26,Alessandro Schöpf,Wolfsberger,Midfielder,1994-02-07,32,gem,Surprise call-up
+J,Austria,24,Forward,7,Marko Arnautović,Red Star Belgrade,Forward,1989-04-19,37,attacker,Maverick
+J,Austria,24,Forward,11,Michael Gregoritsch,Brøndby,Forward,1994-04-18,32,,Target man
+J,Austria,24,Forward,14,Saša Kalajdžić,Wolves,Forward,1997-07-07,28,,
+J,Algeria,28,Coach,,Vladimir Petkovic,,Manager,,,,
+J,Algeria,28,Goalkeeper,1,Melvin Mastil,Lausanne-Sport,Goalkeeper,2000-02-19,26,,
+J,Algeria,28,Goalkeeper,16,Oussama Benbot,USM Alger,Goalkeeper,1994-10-11,31,,
+J,Algeria,28,Goalkeeper,23,Luca Zidane,Granada,Goalkeeper,1998-05-13,28,,
+J,Algeria,28,Defender,2,Aissa Mandi,Lille,Defender,1991-10-22,34,captain|defender,Proud veteran
+J,Algeria,28,Defender,3,Achraf Abada,USM Alger,Defender,1999-06-15,26,gem,Late bloomer
+J,Algeria,28,Defender,4,Mohamed Tougai,Espérance de Tunis,Defender,2000-01-22,26,,Surprise call-up
+J,Algeria,28,Defender,5,Zineddine Belaid,JS Kabylie,Defender,1999-03-20,27,,
+J,Algeria,28,Defender,13,Jaouen Hadjam,Young Boys,Defender,2003-03-26,23,,
+J,Algeria,28,Defender,15,Rayan Aït-Nouri,Manchester City,Defender,2001-06-06,25,,
+J,Algeria,28,Defender,17,Rafik Belghali,Verona,Defender,2002-06-07,24,,
+J,Algeria,28,Defender,21,Ramy Bensebaini,Borussia Dortmund,Defender,1995-04-16,31,,
+J,Algeria,28,Defender,26,Samir Chergui,Paris FC,Defender,1999-02-06,27,,
+J,Algeria,28,Midfielder,6,Ramiz Zerrouki,Feyenoord,Midfielder,1998-05-26,28,midfielder,
+J,Algeria,28,Midfielder,8,Houssem Aouar,Al-Ittihad,Midfielder,1998-06-30,27,,
+J,Algeria,28,Midfielder,10,Farès Chaïbi,Eintracht Frankfurt,Midfielder,2002-11-28,23,,Set-piece specialist
+J,Algeria,28,Midfielder,14,Hicham Boudaoui,Nice,Midfielder,1999-09-23,26,,Midfield powerhouse
+J,Algeria,28,Midfielder,19,Nabil Bentaleb,Lille,Midfielder,1994-11-24,31,,Comeback kid
+J,Algeria,28,Midfielder,22,Ibrahim Maza,Bayer Leverkusen,Midfielder,2005-11-24,20,breakout,One to watch
+J,Algeria,28,Midfielder,24,Yacine Titraoui,Royal Charleroi,Midfielder,2003-07-26,22,,‘The Algerian Verratti’
+J,Algeria,28,Forward,7,Riyad Mahrez,Al-Ahli,Forward (winger),1991-02-21,35,star,National talisman
+J,Algeria,28,Forward,9,Amine Gouiri,Marseille,Forward,2000-02-16,26,,
+J,Algeria,28,Forward,11,Anis Hadj Moussa,Feyenoord,Forward (winger),2002-02-11,24,,Dribbling king
+J,Algeria,28,Forward,12,Nadhir Benbouali,Eto FC,Forward,2000-04-17,26,,
+J,Algeria,28,Forward,18,Mohamed Amine Amoura,Wolfsburg,Forward,2000-05-09,26,attacker,Main goalscorer
+J,Algeria,28,Forward,20,Adil Boulbina,Al-Duhail,Forward (winger),2003-05-02,23,,
+J,Algeria,28,Forward,25,Farès Ghedjemis,Frosinone,Forward,2002-09-06,23,,
+J,Jordan,63,Coach,,Jamal Sellami,,Manager,,,,
+J,Jordan,63,Goalkeeper,1,Yazeed Abulaila,Al-Hussien,Goalkeeper,1993-01-08,33,,No 1 goalkeeper
+J,Jordan,63,Goalkeeper,12,Nour Bani Attiah,Al-Faisaly,Goalkeeper,1993-01-25,33,,
+J,Jordan,63,Goalkeeper,22,Abdallah Al Fakhouri,Al-Wehdat,Goalkeeper,2000-01-22,26,,
+J,Jordan,63,Defender,2,Mohammad Abu Hashish,Al-Karma,Defender,1995-05-09,31,defender,
+J,Jordan,63,Defender,3,Abdallah Nasib,Al-Zawraa,Defender,1994-02-25,32,,
+J,Jordan,63,Defender,4,Husam Abu Dahab,Al-Faisaly,Defender,2000-05-13,26,,One-club man
+J,Jordan,63,Defender,5,Yazan Al Arab,FC Seoul,Defender,1996-01-31,30,,Leader
+J,Jordan,63,Defender,16,Mohammad Abualnadi,Selangor,Defender,2001-02-08,25,,US-born
+J,Jordan,63,Defender,17,Salim Obaid,Al-Hussein,Defender,1992-01-17,34,,Experienced
+J,Jordan,63,Defender,19,Saed Al-Rosan,Al-Hussein,Defender,1997-02-01,29,,
+J,Jordan,63,Defender,20,Mohannad Abu Taha,Al-Quwa Al-Jawiya,Defender,2003-02-02,23,,
+J,Jordan,63,Defender,23,Ehsan Haddad,Al-Hussein,Defender,1994-02-05,32,captain,Captain
+J,Jordan,63,Defender,26,Anas Badawi,Al-Faisaly,Defender,1997-09-13,28,gem,Surprise call-up
+J,Jordan,63,Midfielder,6,Amer Jamous,Al-Zawraa,Midfielder,2002-07-03,23,midfielder,
+J,Jordan,63,Midfielder,8,Noor Al-Rawabdeh,Selangor,Midfielder,1997-02-24,29,,
+J,Jordan,63,Midfielder,14,Rajaei Ayed,Al-Hussein SC,Midfielder,1993-07-25,32,,Respected
+J,Jordan,63,Midfielder,15,Ibrahim Sadeh,Al-Karma,Midfielder,2000-04-27,26,,
+J,Jordan,63,Midfielder,21,Nizar Al-Rashdan,Qatar SC,Midfielder,1999-03-23,27,,
+J,Jordan,63,Midfielder,25,Mohammad Al-Dawoud,Al-Wehdat,Midfielder,1992-12-04,33,,
+J,Jordan,63,Forward,7,Mohammad Abu Zrayq,Raja Club Athletic,Forward (winger),1997-12-30,28,attacker,Keen singer
+J,Jordan,63,Forward,9,Ali Olwan,Al-Sailiya,Forward,2000-03-26,26,,
+J,Jordan,63,Forward,10,Musa Al-Taamari,Rennes,Forward (winger),1997-06-10,29,star,National hero
+J,Jordan,63,Forward,11,Odeh Al-Fakhouri,Pyramids,Forward,2005-11-20,20,breakout,Emerging talent
+J,Jordan,63,Forward,13,Mahmoud Al-Mardi,Al-Hussein,Forward (winger),1993-10-06,32,,
+J,Jordan,63,Forward,18,Ibrahim Sabra,Göztepe,Forward,2006-02-01,20,,Next Generation
+J,Jordan,63,Forward,24,Ali Azaizeh,Al-Shabab,Forward,2004-04-13,22,,
+K,Portugal,5,Coach,,Roberto Martinez,,Manager,,,,
+K,Portugal,5,Goalkeeper,1,Diogo Costa,Porto,Goalkeeper,1999-09-19,26,,No 1 goalkeeper
+K,Portugal,5,Goalkeeper,12,José Sá,Wolves,Goalkeeper,1993-01-17,33,,
+K,Portugal,5,Goalkeeper,22,Rui Silva,Sporting,Goalkeeper,1994-02-07,32,,
+K,Portugal,5,Defender,2,Nélson Semedo,Fenerbahce,Defender,1993-11-16,32,,
+K,Portugal,5,Defender,3,Rúben Dias,Manchester City,Defender,1997-05-14,29,defender,Defensive rock
+K,Portugal,5,Defender,4,Tomás Araújo,Benfica,Defender,2002-05-16,24,,
+K,Portugal,5,Defender,5,Diogo Dalot,Manchester United,Defender,1999-03-18,27,,Burgeoning businessman
+K,Portugal,5,Defender,6,Matheus Nunes,Manchester City,Defender,1998-08-27,27,,
+K,Portugal,5,Defender,13,Renato Veiga,Villarreal,Defender,2003-07-29,22,,Speaks seven languages
+K,Portugal,5,Defender,14,Gonçalo Inácio,Sporting,Defender,2001-08-25,24,,
+K,Portugal,5,Defender,20,João Cancelo,Barcelona,Defender,1994-05-27,32,,
+K,Portugal,5,Defender,25,Nuno Mendes,Paris St-Germain,Defender,2002-06-19,23,,
+K,Portugal,5,Midfielder,8,Bruno Fernandes,Manchester United,Midfielder,1994-09-08,31,midfielder,Creative force
+K,Portugal,5,Midfielder,10,Bernardo Silva,Manchester City,Midfielder,1994-08-10,31,,A complete player
+K,Portugal,5,Midfielder,15,João Neves,Paris St-Germain,Midfielder,2004-09-27,21,breakout,A joy to watch
+K,Portugal,5,Midfielder,16,Francisco Trincão,Sporting,Midfielder,1999-12-29,26,,
+K,Portugal,5,Midfielder,21,Rúben Neves,Al-Hilal,Midfielder,1997-03-13,29,,
+K,Portugal,5,Midfielder,23,Vitinha,Paris St-Germain,Midfielder,2000-02-13,26,,World-class midfielder
+K,Portugal,5,Midfielder,24,Samú Costa,Real Mallorca,Midfielder,2000-11-27,25,gem,Surprise call-up
+K,Portugal,5,Forward,7,Cristiano Ronaldo,Al-Nassr,Forward,1985-02-05,41,star|captain|attacker,Legend
+K,Portugal,5,Forward,9,Gonçalo Ramos,Paris St-Germain,Forward,2001-06-20,24,,Super-sub
+K,Portugal,5,Forward,11,João Félix,Al-Nassr,Forward,1999-11-10,26,,
+K,Portugal,5,Forward,17,Rafael Leão,Milan,Forward (winger),1999-06-10,27,,Inconsistent
+K,Portugal,5,Forward,18,Pedro Neto,Chelsea,Forward (winger),2000-03-09,26,,
+K,Portugal,5,Forward,19,Gonçalo Guedes,Real Sociedad,Forward,1996-11-29,29,,
+K,Portugal,5,Forward,26,Francisco Conceição,Juventus,Forward (winger),2002-12-14,23,,Tricky winger
+K,Colombia,13,Coach,,Nestor Lorenzo,,Manager,,,,
+K,Colombia,13,Goalkeeper,1,David Ospina,Atlético Nacional,Goalkeeper,1988-08-31,37,,
+K,Colombia,13,Goalkeeper,12,Camilo Vargas,Atlas,Goalkeeper,1989-03-09,37,,No 1 goalkeeper
+K,Colombia,13,Goalkeeper,24,Álvaro Montero,Vélez Sarsfield,Goalkeeper,1995-03-29,31,,
+K,Colombia,13,Defender,2,Daniel Muñoz,Crystal Palace,Defender,1996-05-26,30,gem|defender,Late bloomer
+K,Colombia,13,Defender,3,Jhon Lucumí,Bologna,Defender,1998-06-26,27,,
+K,Colombia,13,Defender,4,Santiago Arias,Independiente,Defender,1992-01-13,34,,
+K,Colombia,13,Defender,13,Yerry Mina,Cagliari,Defender,1994-09-23,31,,Aerial threat
+K,Colombia,13,Defender,17,Johan Mojica,Mallorca,Defender,1992-08-21,33,,
+K,Colombia,13,Defender,18,Willer Ditta,Cruz Azul,Defender,1998-01-23,28,,
+K,Colombia,13,Defender,22,Deiver Machado,Nantes,Defender,1993-09-02,32,,
+K,Colombia,13,Defender,23,Davinson Sánchez,Galatasaray,Defender,1996-06-12,29,,Mathematician
+K,Colombia,13,Midfielder,5,Kevin Castaño,River Plate,Midfielder,2000-09-29,25,,
+K,Colombia,13,Midfielder,6,Richard Ríos,Benfica,Midfielder,2000-06-02,26,breakout,Futsal prodigy
+K,Colombia,13,Midfielder,8,Jorge Carrascal,Flamengo,Midfielder,1998-05-25,28,,
+K,Colombia,13,Midfielder,10,James Rodríguez,Minnesota United,Midfielder,1991-07-12,34,captain|midfielder,2014 hero
+K,Colombia,13,Midfielder,11,Jhon Arias,Palmeiras,Midfielder,1997-09-21,28,,
+K,Colombia,13,Midfielder,14,Gustavo Puerta,Racing Santander,Midfielder,2003-07-23,22,,
+K,Colombia,13,Midfielder,15,Juan Portilla,Athletico Paranaense,Midfielder,1998-09-12,27,,
+K,Colombia,13,Midfielder,16,Jefferson Lerma,Crystal Palace,Midfielder,1994-10-25,31,,
+K,Colombia,13,Midfielder,20,Juan Quintero,River Plate,Midfielder,1993-01-18,33,,Playmaker
+K,Colombia,13,Forward,7,Luis Díaz,Bayern Munich,Forward (winger),1997-01-13,29,star|attacker,Super star
+K,Colombia,13,Forward,9,Jhon Córdoba,Krasnodar,Forward,1993-05-11,33,,
+K,Colombia,13,Forward,19,Juan Camilo ‘Cucho’ Hernández,Real Betis,Forward,1999-04-20,27,,
+K,Colombia,13,Forward,21,Jaminton Campaz,Rosario Central,Forward,2000-05-24,26,,
+K,Colombia,13,Forward,25,Luis Suárez,Sporting,Forward,1997-12-02,28,,Goal machine
+K,Colombia,13,Forward,26,Carlos Andrés Gómez,Vasco da Gama,Forward (winger),2002-09-12,23,,Motorbike aficionado
+K,DR Congo,46,Coach,,Sebastien Desabre,,Manager,,,,
+K,DR Congo,46,Goalkeeper,1,Lionel Mpasi,Le Havre,Goalkeeper,1994-08-01,31,,No 1 goalkeeper
+K,DR Congo,46,Goalkeeper,16,Timothy Fayulu,FC Noah,Goalkeeper,1999-07-24,26,,From zero to hero
+K,DR Congo,46,Goalkeeper,21,Matthieu Epolo,Standard Liège,Goalkeeper,2005-01-15,21,,
+K,DR Congo,46,Defender,2,Aaron Wan-Bissaka,West Ham,Defender,1997-11-26,28,defender,
+K,DR Congo,46,Defender,3,Steve Kapuadi,Widzew Lodz,Defender,1998-04-30,28,,
+K,DR Congo,46,Defender,4,Axel Tuanzebe,Burnley,Defender,1997-11-14,28,,Qualifying hero
+K,DR Congo,46,Defender,5,Dylan Batubinsika,AE Larissa,Defender,1996-02-15,30,,Old-school
+K,DR Congo,46,Defender,12,Joris Kayembe,Genk,Defender,1994-08-08,31,,
+K,DR Congo,46,Defender,15,Aaron Tshibola,Kilmarnock,Defender,1995-01-02,31,,
+K,DR Congo,46,Defender,22,Chancel Mbemba,Lille,Defender,1994-08-08,31,,Captain
+K,DR Congo,46,Defender,24,Gédéon Kalulu,Aris Limassol,Defender,1997-08-29,28,,
+K,DR Congo,46,Defender,26,Arthur Masuaku,Lens,Defender,1993-11-07,32,,'The Stubborn One'
+K,DR Congo,46,Midfielder,6,Ngal’ayel Mukau,Lille,Midfielder,2004-11-03,21,midfielder|breakout|gem,Box-to-box midfielder
+K,DR Congo,46,Midfielder,8,Samuel Moutoussamy,Atromitos,Midfielder,1996-08-12,29,,Key player
+K,DR Congo,46,Midfielder,11,Gaël Kakuta,AE Larissa,Midfielder,1991-06-21,34,,
+K,DR Congo,46,Midfielder,14,Noah Sadiki,Sunderland,Midfielder,2004-12-17,21,captain,Future captain
+K,DR Congo,46,Midfielder,18,Charles Pickel,Espanyol,Midfielder,1997-05-15,29,,
+K,DR Congo,46,Midfielder,25,Edo Kayembe,Watford,Midfielder,1998-06-03,28,,Homegrown talent
+K,DR Congo,46,Forward,7,Nathanaël Mbuku,Montpellier,Forward (winger),2002-03-16,24,attacker,
+K,DR Congo,46,Forward,9,Brian Cipenga,Castellón,Forward,1998-03-11,28,,
+K,DR Congo,46,Forward,10,Théo Bongonda,Spartak Moscow,Forward (winger),1995-11-20,30,,‘The Congolese Messi’
+K,DR Congo,46,Forward,13,Meschack Elia,Alanyaspor,Forward (winger),1997-08-06,28,,
+K,DR Congo,46,Forward,17,Cédric Bakambu,Real Betis,Forward,1991-04-11,35,,Veteran No 9
+K,DR Congo,46,Forward,19,Fiston Mayele,Pyramids,Forward,1994-06-24,31,,Humble
+K,DR Congo,46,Forward,20,Yoane Wissa,Newcastle,Forward,1996-09-03,29,star,Star player
+K,DR Congo,46,Forward,23,Simon Banza,Al Jazira,Forward,1996-08-13,29,,'The Joker'
+K,Uzbekistan,50,Coach,,Fabio Cannavaro,,Manager,,,,
+K,Uzbekistan,50,Goalkeeper,1,Utkir Yusupov,Navbakhor,Goalkeeper,1991-01-04,35,,No 1 goalkeeper
+K,Uzbekistan,50,Goalkeeper,12,Abduvokhid Nematov,Nasaf,Goalkeeper,2001-03-20,25,,Good with his feet
+K,Uzbekistan,50,Goalkeeper,16,Botirali Ergashev,Neftchi,Goalkeeper,1995-06-23,30,,
+K,Uzbekistan,50,Defender,2,Abdukodir Khusanov,Manchester City,Defender,2004-02-29,22,star,Star player
+K,Uzbekistan,50,Defender,3,Khojiakbar Alijonov,Pakhtakor,Defender,1997-04-19,29,,
+K,Uzbekistan,50,Defender,4,Farrukh Sayfiev,Neftchi,Defender,1991-01-17,35,,Mr Stability
+K,Uzbekistan,50,Defender,5,Rustam Ashurmatov,Esteghlal,Defender,1996-06-07,30,,
+K,Uzbekistan,50,Defender,13,Sherzod Nasrullaev,Pakhtakor,Defender,1998-07-23,27,,Assist provider
+K,Uzbekistan,50,Defender,15,Umar Eshmurodov,Nasaf,Defender,1992-11-30,33,,‘Coach on the pitch’
+K,Uzbekistan,50,Defender,18,Abdulla Abdullaev,Dibba,Defender,1997-09-01,28,,
+K,Uzbekistan,50,Defender,24,Bekhruz Karimov,Surkhon,Defender,2007-08-07,18,breakout|gem,Young gun
+K,Uzbekistan,50,Defender,25,Avazbek Ulmasaliev,Olmaliq,Defender,2000-03-27,26,defender,No-nonsense
+K,Uzbekistan,50,Defender,26,Jakhongir Urozov,Dinamo Samarkand,Defender,2004-01-18,22,,Scored on debut
+K,Uzbekistan,50,Midfielder,6,Akmal Mozgovoy,Pakhtakor,Midfielder,1999-04-02,27,midfielder,
+K,Uzbekistan,50,Midfielder,7,Otabek Shukurov,Baniyas,Midfielder,1996-06-22,29,,Conductor of play
+K,Uzbekistan,50,Midfielder,8,Jamshid Iskanderov,Neftchi,Midfielder,1993-10-16,32,,
+K,Uzbekistan,50,Midfielder,9,Odiljon Khamrobekov,Tractor,Midfielder,1996-02-13,30,,Irreplaceable
+K,Uzbekistan,50,Midfielder,19,Azizjon Ganiev,Al Bataeh,Midfielder,1998-02-22,28,,
+K,Uzbekistan,50,Midfielder,20,Azizbek Amonov,Dinamo Samarkand,Midfielder,1997-10-30,28,,
+K,Uzbekistan,50,Midfielder,22,Abbosbek Fayzullaev,Basaksehir,Midfielder,2003-10-03,22,,
+K,Uzbekistan,50,Midfielder,23,Sherzod Esanov,FC Buxoro,Midfielder,2003-02-01,23,,
+K,Uzbekistan,50,Forward,10,Jaloliddin Masharipov,Esteghlal,Forward (winger),1993-09-01,32,attacker,Friend of Cristiano
+K,Uzbekistan,50,Forward,11,Oston Urunov,Persepolis,Forward (winger),2000-12-19,25,,
+K,Uzbekistan,50,Forward,14,Eldor Shomurodov,Roma,Forward,1995-06-29,30,,Record goalscorer
+K,Uzbekistan,50,Forward,17,Dostonbek Khamdamov,Pakhtakor,Forward (winger),1996-07-24,29,,
+K,Uzbekistan,50,Forward,21,Igor Sergeev,Persepolis,Forward,1993-04-30,33,,
+L,England,4,Coach,,Thomas Tuchel,,Manager,,,,
+L,England,4,Goalkeeper,1,Jordan Pickford,Everton,Goalkeeper,1994-03-07,32,,No 1 goalkeeper
+L,England,4,Goalkeeper,13,Dean Henderson,Crystal Palace,Goalkeeper,1997-03-12,29,,
+L,England,4,Goalkeeper,23,James Trafford,Manchester City,Goalkeeper,2002-10-10,23,,Farmer's son
+L,England,4,Defender,2,Ezri Konsa,Aston Villa,Defender,1997-10-23,28,,
+L,England,4,Defender,3,Nico O’Reilly,Manchester City,Defender,2005-03-21,21,breakout,On the rise
+L,England,4,Defender,5,John Stones,Manchester City,Defender,1994-05-28,32,defender,
+L,England,4,Defender,6,Marc Guéhi,Manchester City,Defender,2000-07-13,25,,Natural leader
+L,England,4,Defender,12,Tino Livramento,Newcastle,Defender,2002-11-12,23,,
+L,England,4,Defender,15,Dan Burn,Newcastle,Defender,1992-05-09,34,,
+L,England,4,Defender,24,Reece James,Chelsea,Defender,1999-12-08,26,,
+L,England,4,Defender,25,Djed Spence,Tottenham,Defender,2000-08-09,25,,Never-say-die attitude
+L,England,4,Defender,26,Jarell Quansah,Bayer Leverkusen,Defender,2003-01-29,23,,
+L,England,4,Midfielder,4,Declan Rice,Arsenal,Midfielder,1999-01-14,27,,Midfield engine
+L,England,4,Midfielder,8,Elliot Anderson,Nottingham Forest,Midfielder,2002-11-06,23,,
+L,England,4,Midfielder,10,Jude Bellingham,Real Madrid,Midfielder,2003-06-29,22,star|midfielder,Super star
+L,England,4,Midfielder,14,Jordan Henderson,Brentford,Midfielder,1990-06-17,35,,Veteran
+L,England,4,Midfielder,16,Kobbie Mainoo,Manchester United,Midfielder,2005-04-19,21,,
+L,England,4,Midfielder,17,Morgan Rogers,Aston Villa,Midfielder,2002-07-26,23,gem,One to watch
+L,England,4,Midfielder,21,Eberechi Eze,Arsenal,Midfielder,1998-06-29,27,,Chess player
+L,England,4,Forward,7,Bukayo Saka,Arsenal,Forward (winger),2001-09-05,24,,Lightning quick
+L,England,4,Forward,9,Harry Kane,Bayern Munich,Forward,1993-07-28,32,captain|attacker,Goal machine
+L,England,4,Forward,11,Marcus Rashford,Manchester United,Forward (winger),1997-10-31,28,,Social campaigner
+L,England,4,Forward,18,Anthony Gordon,Newcastle,Forward (winger),2001-02-24,25,,
+L,England,4,Forward,19,Ollie Watkins,Aston Villa,Forward,1995-12-30,30,,Music lover
+L,England,4,Forward,20,Noni Madueke,Arsenal,Forward (winger),2002-03-10,24,,
+L,England,4,Forward,22,Ivan Toney,Al-Ahli,Forward,1996-03-16,30,,Surprise call-up
+L,Croatia,11,Coach,,Zlatko Dalic,,Manager,,,,
+L,Croatia,11,Goalkeeper,1,Dominik Livakovic,Fenerbahce,Goalkeeper,1995-01-09,31,,Penalty specialist
+L,Croatia,11,Goalkeeper,12,Ivor Pandur,Hull City,Goalkeeper,2000-03-25,26,,Yoga practitioner
+L,Croatia,11,Goalkeeper,23,Dominik Kotarski,FC Copenhagen,Goalkeeper,2000-02-10,26,,
+L,Croatia,11,Defender,2,Josip Stanisic,Bayern Munich,Defender,2000-04-02,26,defender,
+L,Croatia,11,Defender,3,Marin Pongracic,Fiorentina,Defender,1997-09-11,28,,
+L,Croatia,11,Defender,4,Josko Gvardiol,Manchester City,Defender,2002-01-23,24,,Dominant
+L,Croatia,11,Defender,5,Duje Caleta-Car,Lyon,Defender,1996-09-17,29,,
+L,Croatia,11,Defender,6,Josip Sutalo,Ajax,Defender,2000-02-28,26,,
+L,Croatia,11,Defender,22,Luka Vuskovic,Tottenham,Defender,2007-02-24,19,breakout|gem,Teenage sensation
+L,Croatia,11,Defender,25,Martin Erlic,Midtjylland,Defender,1998-01-24,28,,From a farming family
+L,Croatia,11,Midfielder,7,Nikola Moro,Bologna,Midfielder,1998-03-12,28,,
+L,Croatia,11,Midfielder,8,Mateo Kovacic,Manchester City,Midfielder,1994-05-06,32,,‘Altar boy’
+L,Croatia,11,Midfielder,10,Luka Modric,Milan,Midfielder,1985-09-09,40,star|captain|midfielder,Super star
+L,Croatia,11,Midfielder,13,Nikola Vlasic,Torino,Midfielder,1997-10-04,28,,
+L,Croatia,11,Midfielder,15,Mario Pasalic,Atalanta,Midfielder,1995-02-09,31,,
+L,Croatia,11,Midfielder,16,Martin Baturina,Como,Midfielder,2003-02-16,23,,Former gymnast
+L,Croatia,11,Midfielder,17,Petar Sucic,Inter,Midfielder,2003-10-25,22,,No social media
+L,Croatia,11,Midfielder,18,Kristijan Jakic,Augsburg,Midfielder,1997-05-14,29,,
+L,Croatia,11,Midfielder,19,Toni Fruk,Rijeka,Midfielder,2001-03-09,25,,Secret weapon
+L,Croatia,11,Midfielder,21,Luka Sucic,Real Sociedad,Midfielder,2002-09-08,23,,
+L,Croatia,11,Forward,9,Andrej Kramaric,Hoffenheim,Forward,1991-06-19,34,attacker,
+L,Croatia,11,Forward,11,Ante Budimir,Osasuna,Forward,1991-07-22,34,,Economics student
+L,Croatia,11,Forward,14,Ivan Perisic,PSV Eindhoven,Forward (winger),1989-02-02,37,,
+L,Croatia,11,Forward,20,Igor Matanovic,Freiburg,Forward,2003-03-31,23,,Retailer
+L,Croatia,11,Forward,24,Marco Pasalic,Orlando City,Forward (winger),2000-09-14,25,,
+L,Croatia,11,Forward,26,Petar Musa,FC Dallas,Forward,1998-03-04,28,,‘The Moose’
+L,Ghana,74,Coach,,Carlos Queiroz,,Manager,,,,
+L,Ghana,74,Goalkeeper,1,Lawrence Ati-Zigi,St Gallen,Goalkeeper,1996-11-29,29,,Keen painter
+L,Ghana,74,Goalkeeper,12,Joseph Anang,St Patrick's Athletic,Goalkeeper,2000-06-08,26,,
+L,Ghana,74,Goalkeeper,16,Benjamin Asare,Hearts of Oak,Goalkeeper,1992-07-13,33,,No 1 goalkeeper
+L,Ghana,74,Defender,2,Alidu Seidu,Rennes,Defender,2000-06-04,26,defender,Survivor
+L,Ghana,74,Defender,4,Jonas Adjetey,Wolfsburg,Defender,2003-12-13,22,,Fighter
+L,Ghana,74,Defender,6,Abdul Mumin,Rayo Vallecano,Defender,1998-06-06,28,,
+L,Ghana,74,Defender,14,Gideon Mensah,Auxerre,Defender,1998-07-18,27,captain,Experienced
+L,Ghana,74,Defender,17,Baba Rahman,PAOK,Defender,1994-07-02,31,,
+L,Ghana,74,Defender,18,Jerome Opoku,Basaksehir,Defender,1998-10-14,27,,
+L,Ghana,74,Defender,21,Kojo Peprah Oppong,Nice,Defender,2004-06-04,22,breakout,Going places
+L,Ghana,74,Defender,23,Derrick Luckassen,Pafos,Defender,1995-07-03,30,,
+L,Ghana,74,Defender,26,Marvin Senaya,Auxerre,Defender,2001-01-28,25,,Late call-up
+L,Ghana,74,Midfielder,3,Caleb Yirenkyi,FC Nordsjælland,Midfielder,2006-01-15,20,gem|midfielder,One to watch
+L,Ghana,74,Midfielder,5,Thomas Partey,Villarreal,Midfielder,1993-06-13,32,,
+L,Ghana,74,Midfielder,8,Kwasi Sibo,Real Oviedo,Midfielder,1998-06-24,27,,
+L,Ghana,74,Midfielder,15,Elisha Owusu,Auxerre,Midfielder,1997-11-07,28,,
+L,Ghana,74,Midfielder,20,Augustine Boakye,Saint-Étienne,Midfielder,2000-11-03,25,,
+L,Ghana,74,Forward,7,Abdul Fatawu,Leicester,Forward,2004-03-08,22,,Long-range shooter
+L,Ghana,74,Forward,9,Jordan Ayew,Leicester,Forward,1991-09-11,34,,
+L,Ghana,74,Forward,10,Brandon Thomas-Asante,Coventry City,Forward,1998-12-29,27,,
+L,Ghana,74,Forward,11,Antoine Semenyo,Manchester City,Forward (winger),2000-01-07,26,star,Super star
+L,Ghana,74,Forward,13,Christopher Bonsu Baah,Al-Qadsiah,Forward,2004-12-14,21,,
+L,Ghana,74,Forward,19,Iñaki Williams,Athletic Bilbao,Forward,1994-06-15,31,attacker,Goal threat
+L,Ghana,74,Forward,22,Kamaldeen Sulemana,Atalanta,Forward,2002-02-15,24,,Lightning quick
+L,Ghana,74,Forward,24,Ernest Nuamah,Lyon,Forward (winger),2003-11-01,22,,
+L,Ghana,74,Forward,25,Prince Kwabena Adu,Viktoria Plzen,Forward,2003-09-23,22,,
+L,Panama,33,Coach,,Thomas Christiansen,,Manager,,,,
+L,Panama,33,Goalkeeper,1,Luis Mejía,Nacional,Goalkeeper,1991-03-16,35,,
+L,Panama,33,Goalkeeper,12,César Samudio,Marathón,Goalkeeper,1994-02-23,32,,
+L,Panama,33,Goalkeeper,22,Orlando Mosquera,Al-Fayha,Goalkeeper,1994-12-25,31,,No 1 goalkeeper
+L,Panama,33,Defender,2,César Blackman,Slovan Bratislava,Defender,1998-04-02,28,defender,History maker
+L,Panama,33,Defender,3,José Córdoba,Norwich,Defender,2001-06-03,25,,‘Prince of Panama’
+L,Panama,33,Defender,4,Fidel Escobar,Saprissa,Defender,1995-01-09,31,,
+L,Panama,33,Defender,5,Edgardo Fariña,Nizhny Novgorod,Defender,2001-10-19,24,,
+L,Panama,33,Defender,13,Jiovany Ramos,Academia Puerto Cabello,Defender,1997-01-26,29,,
+L,Panama,33,Defender,15,Eric Davis,Plaza Amador,Defender,1991-03-31,35,,
+L,Panama,33,Defender,16,Andrés Andrade,LASK,Defender,1998-10-16,27,,
+L,Panama,33,Defender,23,Michael Amir Murillo,Besiktas,Defender,1996-02-11,30,,Star player
+L,Panama,33,Defender,25,Roderick Miller,Turan Tovuz,Defender,1992-04-03,34,,
+L,Panama,33,Defender,26,Jorge Gutiérrez,Deportivo La Guaira,Defender,1998-09-01,27,,
+L,Panama,33,Midfielder,6,Cristian Martínez,Kiryat Shmona,Midfielder,1997-02-06,29,midfielder,Box-to-box midfielder
+L,Panama,33,Midfielder,8,Adalberto Carrasquilla,Pumas,Midfielder,1998-11-28,27,,Creative spark
+L,Panama,33,Midfielder,14,Carlos Harvey,Minnesota United,Midfielder,2000-02-03,26,,
+L,Panama,33,Midfielder,20,Aníbal Godoy,San Diego FC,Midfielder,1990-02-10,36,captain,Captain
+L,Panama,33,Forward,7,José Luis Rodríguez,FC Juárez,Forward (winger),1998-06-19,27,attacker,Lightning quick
+L,Panama,33,Forward,9,Tomás Rodríguez,Saprissa,Forward,1999-03-09,27,,
+L,Panama,33,Forward,10,Ismael Díaz,Club León,Forward (winger),1997-05-12,29,,
+L,Panama,33,Forward,11,Édgar Yoel Bárcenas,Mazatlán,Forward (winger),1993-10-23,32,,‘El Mago’
+L,Panama,33,Forward,17,José Fajardo,Universidad Católica,Forward,1993-08-18,32,,Setting an example
+L,Panama,33,Forward,18,Cecilio Waterman,Universidad de Concepción,Forward,1991-04-13,35,,
+L,Panama,33,Forward,19,Alberto Quintero,Plaza Amador,Forward (winger),1987-12-18,38,star,Legend
+L,Panama,33,Forward,21,César Yanis,Cobresal,Forward (winger),1996-01-28,30,,
+L,Panama,33,Forward,24,Azarías Londoño,Universidad Católica,Forward,2001-06-21,24,,

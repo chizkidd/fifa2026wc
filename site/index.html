@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Cup 2026 — Teams, Stars & Bracket | chizobao</title>
+  <meta name="description" content="An interactive guide to the 2026 FIFA World Cup: all 48 squads, coaches, FIFA ranks, player profiles with badges, group previews and a full bracket prediction." />
+  <link rel="preconnect" href="https://media.guim.co.uk" crossorigin />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#/home">
+        <span class="ball">⚽</span>
+        <span class="brand-text">WORLD CUP <b>2026</b></span>
+      </a>
+      <nav class="tabs" id="tabs">
+        <a href="#/home" data-route="home">Overview</a>
+        <a href="#/groups" data-route="groups">Groups</a>
+        <a href="#/watch" data-route="watch">Players to Watch</a>
+        <a href="#/bracket" data-route="bracket">Bracket</a>
+      </nav>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main id="app" class="wrap">
+    <div class="loading">Loading the tournament…</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Built by <a href="https://chizobao.substack.com" target="_blank" rel="noopener">chizobao</a> · Part 3 of the 2026 World Cup series.</p>
+      <p class="muted">Squad data &amp; player bios: Guardian World Cup 2026 player guide. FIFA ranking: April 2026 edition. Group standings &amp; bracket are my own predictions.</p>
+    </div>
+  </footer>
+
+  <!-- Player modal -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close aria-label="Close">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

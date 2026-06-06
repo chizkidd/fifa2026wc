@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Mexico",
+    "code": "MEX",
+    "flag": "🇲🇽",
+    "group": "A",
+    "fifaRank": 15,
+    "manager": "Javier Aguirre",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Santiago Gimenez",
+      "captain": "Edson Álvarez",
+      "breakout": "Gilberto Mora",
+      "gem": "César Huerta",
+      "midfielder": "Edson Álvarez",
+      "attacker": "Raúl Jiménez",
+      "defender": "Jorge Sánchez"
+    }
+  },
+  {
+    "name": "South Korea",
+    "code": "KOR",
+    "flag": "🇰🇷",
+    "group": "A",
+    "fifaRank": 25,
+    "manager": "Hong Myung-Bo",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Son Heung-min",
+      "captain": "Son Heung-min",
+      "gem": "Park Jin-seob",
+      "defender": "Kim Min-jae",
+      "midfielder": "Lee Kang-in",
+      "attacker": "Son Heung-min"
+    }
+  },
+  {
+    "name": "Czechia",
+    "code": "CZE",
+    "flag": "🇨🇿",
+    "group": "A",
+    "fifaRank": 41,
+    "manager": "Miroslav Koubek",
+    "predictedFinish": 3,
+    "badges": {
+      "breakout": "Hugo Sochurek",
+      "gem": "Pavel Sulc",
+      "midfielder": "Tomas Soucek",
+      "captain": "Tomas Holes",
+      "defender": "David Zima",
+      "attacker": "Adam Hlozek",
+      "star": "Adam Hlozek"
+    }
+  },
+  {
+    "name": "South Africa",
+    "code": "RSA",
+    "flag": "🇿🇦",
+    "group": "A",
+    "fifaRank": 60,
+    "manager": "Hugo Broos",
+    "predictedFinish": 4,
+    "badges": {
+      "breakout": "Olwethu Makhanya",
+      "gem": "Jayden Adams",
+      "attacker": "Lyle Foster",
+      "captain": "Themba Zwane",
+      "defender": "Thabang Matuludi",
+      "midfielder": "Teboho Mokoena",
+      "star": "Lyle Foster"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "code": "SUI",
+    "flag": "🇨🇭",
+    "group": "B",
+    "fifaRank": 19,
+    "manager": "Murat Yakin",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Granit Xhaka",
+      "captain": "Granit Xhaka",
+      "breakout": "Johan Manzambi",
+      "gem": "Christian Fassnacht",
+      "defender": "Manuel Akanji",
+      "midfielder": "Granit Xhaka",
+      "attacker": "Breel Embolo"
+    }
+  },
+  {
+    "name": "Canada",
+    "code": "CAN",
+    "flag": "🇨🇦",
+    "group": "B",
+    "fifaRank": 30,
+    "manager": "Jesse Marsch",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Alphonso Davies",
+      "captain": "Alphonso Davies",
+      "breakout": "Ismaël Koné",
+      "gem": "Ismaël Koné",
+      "defender": "Alphonso Davies",
+      "attacker": "Jonathan David",
+      "midfielder": "Mathieu Choinière"
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BIH",
+    "flag": "🇧🇦",
+    "group": "B",
+    "fifaRank": 65,
+    "manager": "Sergej Barbarez",
+    "predictedFinish": 3,
+    "badges": {
+      "breakout": "Kerim Alajbegovic",
+      "defender": "Nihad Mujakic",
+      "midfielder": "Benjamin Tahirovic",
+      "attacker": "Samed Bazdar",
+      "star": "Samed Bazdar",
+      "gem": "Mladen Jurkas"
+    }
+  },
+  {
+    "name": "Qatar",
+    "code": "QAT",
+    "flag": "🇶🇦",
+    "group": "B",
+    "fifaRank": 55,
+    "manager": "Julen Lopetegui",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Akram Afif",
+      "midfielder": "Assim Madibo",
+      "captain": "Abdulaziz Hatem",
+      "breakout": "Tahsin Mohammed Jamshid",
+      "defender": "Pedro Miguel",
+      "attacker": "Ahmed Alaaeldin",
+      "gem": "Tahsin Mohammed Jamshid"
+    }
+  },
+  {
+    "name": "Brazil",
+    "code": "BRA",
+    "flag": "🇧🇷",
+    "group": "C",
+    "fifaRank": 6,
+    "manager": "Carlo Ancelotti",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Vinícius Júnior",
+      "captain": "Marquinhos",
+      "breakout": "Endrick",
+      "defender": "Marquinhos",
+      "midfielder": "Bruno Guimarães",
+      "attacker": "Vinícius Júnior",
+      "gem": "Endrick"
+    }
+  },
+  {
+    "name": "Morocco",
+    "code": "MAR",
+    "flag": "🇲🇦",
+    "group": "C",
+    "fifaRank": 8,
+    "manager": "Mohamed Ouahbi",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Achraf Hakimi",
+      "captain": "Achraf Hakimi",
+      "defender": "Achraf Hakimi",
+      "midfielder": "Brahim Díaz",
+      "breakout": "Ayyoub Bouaddi",
+      "attacker": "Chemsdine Talbi",
+      "gem": "Ayyoub Bouaddi"
+    }
+  },
+  {
+    "name": "Scotland",
+    "code": "SCO",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "group": "C",
+    "fifaRank": 43,
+    "manager": "Steve Clarke",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Scott McTominay",
+      "captain": "Andy Robertson",
+      "attacker": "Ben Gannon-Doak",
+      "breakout": "Tyler Fletcher",
+      "defender": "Aaron Hickey",
+      "midfielder": "Scott McTominay",
+      "gem": "Tyler Fletcher"
+    }
+  },
+  {
+    "name": "Haiti",
+    "code": "HAI",
+    "flag": "🇭🇹",
+    "group": "C",
+    "fifaRank": 83,
+    "manager": "Sebastien Migne",
+    "predictedFinish": 4,
+    "badges": {
+      "gem": "Lenny Joseph",
+      "breakout": "Woodensky Pierre",
+      "defender": "Carlens Arcus",
+      "midfielder": "Carl Fred Sainté",
+      "attacker": "Derrick Etienne Jr",
+      "star": "Derrick Etienne Jr"
+    }
+  },
+  {
+    "name": "Turkey",
+    "code": "TUR",
+    "flag": "🇹🇷",
+    "group": "D",
+    "fifaRank": 22,
+    "manager": "Vincenzo Montella",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Arda Guler",
+      "breakout": "Arda Guler",
+      "gem": "Can Uzun",
+      "defender": "Merih Demiral",
+      "midfielder": "Arda Guler",
+      "attacker": "Kenan Yildiz"
+    }
+  },
+  {
+    "name": "USA",
+    "code": "USA",
+    "flag": "🇺🇸",
+    "group": "D",
+    "fifaRank": 16,
+    "manager": "Mauricio Pochettino",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Christian Pulisic",
+      "captain": "Christian Pulisic",
+      "midfielder": "Weston McKennie",
+      "attacker": "Christian Pulisic",
+      "breakout": "Alex Freeman",
+      "defender": "Sergiño Dest",
+      "gem": "Alex Freeman"
+    }
+  },
+  {
+    "name": "Australia",
+    "code": "AUS",
+    "flag": "🇦🇺",
+    "group": "D",
+    "fifaRank": 27,
+    "manager": "Tony Popovic",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Nestory Irankunda",
+      "breakout": "Nestory Irankunda",
+      "gem": "Nestory Irankunda",
+      "defender": "Harry Souttar",
+      "midfielder": "Jackson Irvine",
+      "captain": "Alessandro Circati",
+      "attacker": "Mohamed Touré"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "code": "PAR",
+    "flag": "🇵🇾",
+    "group": "D",
+    "fifaRank": 40,
+    "manager": "Gustavo Alfaro",
+    "predictedFinish": 4,
+    "badges": {
+      "gem": "Gustavo Velázquez",
+      "midfielder": "Andrés Cubas",
+      "attacker": "Gustavo Caballero",
+      "breakout": "Alexandro Maidana",
+      "defender": "Gustavo Velázquez",
+      "star": "Gustavo Caballero"
+    }
+  },
+  {
+    "name": "Germany",
+    "code": "GER",
+    "flag": "🇩🇪",
+    "group": "E",
+    "fifaRank": 10,
+    "manager": "Julian Nagelsmann",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Florian Wirtz",
+      "captain": "Joshua Kimmich",
+      "breakout": "Jamal Musiala",
+      "gem": "Nadiem Amiri",
+      "defender": "Jonathan Tah",
+      "midfielder": "Florian Wirtz",
+      "attacker": "Jamal Musiala"
+    }
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "code": "CIV",
+    "flag": "🇨🇮",
+    "group": "E",
+    "fifaRank": 34,
+    "manager": "Emerse Faé",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Simon Adingra",
+      "captain": "Franck Kessié",
+      "breakout": "Yan Diomandé",
+      "defender": "Odilon Kossounou",
+      "midfielder": "Séko Fofana",
+      "attacker": "Ange-Yoan Bonny",
+      "gem": "Yan Diomandé"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "code": "ECU",
+    "flag": "🇪🇨",
+    "group": "E",
+    "fifaRank": 23,
+    "manager": "Sebastián Beccacece",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Moisés Caicedo",
+      "breakout": "Kendry Páez",
+      "gem": "Joel Ordóñez",
+      "defender": "Piero Hincapié",
+      "midfielder": "Moisés Caicedo",
+      "captain": "Piero Hincapié",
+      "attacker": "Anthony Valencia"
+    }
+  },
+  {
+    "name": "Curaçao",
+    "code": "CUW",
+    "flag": "🇨🇼",
+    "group": "E",
+    "fifaRank": 82,
+    "manager": "Dick Advocaat",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Eloy Room",
+      "breakout": "Tahith Chong",
+      "defender": "Armando Obispo",
+      "captain": "Leandro Bacuna",
+      "midfielder": "Godfried Roemeratoe",
+      "attacker": "Jürgen Locadia",
+      "gem": "Livano Comenencia"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "code": "NED",
+    "flag": "🇳🇱",
+    "group": "F",
+    "fifaRank": 7,
+    "manager": "Ronald Koeman",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Virgil van Dijk",
+      "captain": "Virgil van Dijk",
+      "gem": "Guus Til",
+      "defender": "Virgil van Dijk",
+      "midfielder": "Frenkie de Jong",
+      "attacker": "Cody Gakpo",
+      "breakout": "Jorrel Hato"
+    }
+  },
+  {
+    "name": "Japan",
+    "code": "JPN",
+    "flag": "🇯🇵",
+    "group": "F",
+    "fifaRank": 18,
+    "manager": "Hajime Moriyasu",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Takefusa Kubo",
+      "defender": "Hiroki Ito",
+      "midfielder": "Wataru Endo",
+      "attacker": "Takefusa Kubo",
+      "breakout": "Keisuke Goto",
+      "gem": "Keisuke Goto"
+    }
+  },
+  {
+    "name": "Sweden",
+    "code": "SWE",
+    "flag": "🇸🇪",
+    "group": "F",
+    "fifaRank": 38,
+    "manager": "Graham Potter",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Alexander Isak",
+      "breakout": "Lucas Bergvall",
+      "gem": "Ken Sema",
+      "attacker": "Alexander Isak",
+      "captain": "Victor Lindelöf",
+      "defender": "Gustaf Lagerbielke",
+      "midfielder": "Lucas Bergvall"
+    }
+  },
+  {
+    "name": "Tunisia",
+    "code": "TUN",
+    "flag": "🇹🇳",
+    "group": "F",
+    "fifaRank": 44,
+    "manager": "Sabri Lamouchi",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Hannibal Mejbri",
+      "captain": "Ellyes Skhiri",
+      "breakout": "Rayan Elloumi",
+      "gem": "Raed Chikhaoui",
+      "defender": "Ali Abdi",
+      "midfielder": "Hannibal Mejbri",
+      "attacker": "Elias Achouri"
+    }
+  },
+  {
+    "name": "Belgium",
+    "code": "BEL",
+    "flag": "🇧🇪",
+    "group": "G",
+    "fifaRank": 9,
+    "manager": "Rudi Garcia",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Kevin De Bruyne",
+      "captain": "Kevin De Bruyne",
+      "midfielder": "Kevin De Bruyne",
+      "attacker": "Romelu Lukaku",
+      "breakout": "Diego Moreira",
+      "defender": "Zeno Debast",
+      "gem": "Mike Penders"
+    }
+  },
+  {
+    "name": "Egypt",
+    "code": "EGY",
+    "flag": "🇪🇬",
+    "group": "G",
+    "fifaRank": 29,
+    "manager": "Hossam Hassan",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Mohamed Salah",
+      "captain": "Mohamed Salah",
+      "breakout": "Haissem Hassan",
+      "gem": "Yasser Ibrahim",
+      "attacker": "Mohamed Salah",
+      "defender": "Yasser Ibrahim",
+      "midfielder": "Emam Ashour"
+    }
+  },
+  {
+    "name": "Iran",
+    "code": "IRN",
+    "flag": "🇮🇷",
+    "group": "G",
+    "fifaRank": 21,
+    "manager": "Amir Ghalenoei",
+    "predictedFinish": 3,
+    "badges": {
+      "defender": "Shoja Khalilzadeh",
+      "attacker": "Mehdi Ghaedi",
+      "breakout": "Amirmohammad Razzaghinia",
+      "midfielder": "Saeid Ezatolahi",
+      "star": "Mehdi Ghaedi",
+      "gem": "Amirmohammad Razzaghinia"
+    }
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZL",
+    "flag": "🇳🇿",
+    "group": "G",
+    "fifaRank": 85,
+    "manager": "Darren Bazeley",
+    "predictedFinish": 4,
+    "badges": {
+      "breakout": "Ben Old",
+      "gem": "Jesse Randall",
+      "attacker": "Chris Wood",
+      "captain": "Tommy Smith",
+      "defender": "Tim Payne",
+      "midfielder": "Joe Bell",
+      "star": "Chris Wood"
+    }
+  },
+  {
+    "name": "Spain",
+    "code": "ESP",
+    "flag": "🇪🇸",
+    "group": "H",
+    "fifaRank": 2,
+    "manager": "Luis de la Fuente",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Lamine Yamal",
+      "breakout": "Lamine Yamal",
+      "defender": "Pau Cubarsí",
+      "midfielder": "Pedri",
+      "attacker": "Lamine Yamal",
+      "captain": "Pau Cubarsí",
+      "gem": "Lamine Yamal"
+    }
+  },
+  {
+    "name": "Uruguay",
+    "code": "URU",
+    "flag": "🇺🇾",
+    "group": "H",
+    "fifaRank": 17,
+    "manager": "Marcelo Bielsa",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Federico Valverde",
+      "captain": "José María Giménez",
+      "defender": "Ronald Araújo",
+      "midfielder": "Federico Valverde",
+      "attacker": "Darwin Núñez"
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "code": "CPV",
+    "flag": "🇨🇻",
+    "group": "H",
+    "fifaRank": 69,
+    "manager": "Bubista",
+    "predictedFinish": 3,
+    "badges": {
+      "captain": "Ryan Mendes",
+      "defender": "Ianique ‘Stopira’ Tavares",
+      "midfielder": "Kevin Lenini Pina",
+      "attacker": "Jovane Cabral",
+      "star": "Jovane Cabral",
+      "gem": "Sidny Lopes Cabral"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "KSA",
+    "flag": "🇸🇦",
+    "group": "H",
+    "fifaRank": 61,
+    "manager": "Georgios Donis",
+    "predictedFinish": 4,
+    "badges": {
+      "gem": "Sultan Mandash",
+      "defender": "Hassan Al-Tambakti",
+      "midfielder": "Ziyad Al-Johani",
+      "captain": "Hassan Al-Tambakti",
+      "attacker": "Firas Al-Buraikan",
+      "star": "Firas Al-Buraikan"
+    }
+  },
+  {
+    "name": "France",
+    "code": "FRA",
+    "flag": "🇫🇷",
+    "group": "I",
+    "fifaRank": 1,
+    "manager": "Didier Deschamps",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Kylian Mbappé",
+      "captain": "Kylian Mbappé",
+      "breakout": "Rayan Cherki",
+      "defender": "William Saliba",
+      "midfielder": "Aurélien Tchouaméni",
+      "attacker": "Kylian Mbappé",
+      "gem": "Warren Zaïre-Emery"
+    }
+  },
+  {
+    "name": "Senegal",
+    "code": "SEN",
+    "flag": "🇸🇳",
+    "group": "I",
+    "fifaRank": 14,
+    "manager": "Pape Thiaw",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Sadio Mané",
+      "captain": "Kalidou Koulibaly",
+      "defender": "Kalidou Koulibaly",
+      "midfielder": "Habib Diarra",
+      "attacker": "Nicolas Jackson",
+      "breakout": "Ibrahim Mbaye",
+      "gem": "Ibrahim Mbaye"
+    }
+  },
+  {
+    "name": "Norway",
+    "code": "NOR",
+    "flag": "🇳🇴",
+    "group": "I",
+    "fifaRank": 31,
+    "manager": "Stale Solbakken",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Erling Haaland",
+      "captain": "Martin Ødegaard",
+      "gem": "Henrik Falchener",
+      "defender": "Kristoffer Ajer",
+      "midfielder": "Martin Ødegaard",
+      "attacker": "Erling Haaland",
+      "breakout": "Antonio Nusa"
+    }
+  },
+  {
+    "name": "Iraq",
+    "code": "IRQ",
+    "flag": "🇮🇶",
+    "group": "I",
+    "fifaRank": 57,
+    "manager": "Graham Arnold",
+    "predictedFinish": 4,
+    "badges": {
+      "breakout": "Marko Farji",
+      "attacker": "Ali Jassim",
+      "captain": "Rebin Sulaka",
+      "defender": "Rebin Sulaka",
+      "midfielder": "Youssef Amyn",
+      "star": "Ali Jassim",
+      "gem": "Youssef Amyn"
+    }
+  },
+  {
+    "name": "Argentina",
+    "code": "ARG",
+    "flag": "🇦🇷",
+    "group": "J",
+    "fifaRank": 3,
+    "manager": "Lionel Scaloni",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Lionel Messi",
+      "captain": "Lionel Messi",
+      "breakout": "Nico Paz",
+      "defender": "Cristian Romero",
+      "midfielder": "Enzo Fernández",
+      "attacker": "Julián Álvarez",
+      "gem": "Valentín Barco"
+    }
+  },
+  {
+    "name": "Austria",
+    "code": "AUT",
+    "flag": "🇦🇹",
+    "group": "J",
+    "fifaRank": 24,
+    "manager": "Ralf Rangnick",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "David Alaba",
+      "captain": "David Alaba",
+      "gem": "Alessandro Schöpf",
+      "defender": "David Alaba",
+      "midfielder": "Konrad Laimer",
+      "breakout": "Paul Wanner",
+      "attacker": "Marko Arnautović"
+    }
+  },
+  {
+    "name": "Algeria",
+    "code": "ALG",
+    "flag": "🇩🇿",
+    "group": "J",
+    "fifaRank": 28,
+    "manager": "Vladimir Petkovic",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Riyad Mahrez",
+      "gem": "Achraf Abada",
+      "attacker": "Mohamed Amine Amoura",
+      "captain": "Aissa Mandi",
+      "breakout": "Ibrahim Maza",
+      "defender": "Aissa Mandi",
+      "midfielder": "Ramiz Zerrouki"
+    }
+  },
+  {
+    "name": "Jordan",
+    "code": "JOR",
+    "flag": "🇯🇴",
+    "group": "J",
+    "fifaRank": 63,
+    "manager": "Jamal Sellami",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Musa Al-Taamari",
+      "captain": "Ehsan Haddad",
+      "gem": "Anas Badawi",
+      "breakout": "Odeh Al-Fakhouri",
+      "defender": "Mohammad Abu Hashish",
+      "midfielder": "Amer Jamous",
+      "attacker": "Mohammad Abu Zrayq"
+    }
+  },
+  {
+    "name": "Portugal",
+    "code": "POR",
+    "flag": "🇵🇹",
+    "group": "K",
+    "fifaRank": 5,
+    "manager": "Roberto Martinez",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Cristiano Ronaldo",
+      "captain": "Cristiano Ronaldo",
+      "gem": "Samú Costa",
+      "defender": "Rúben Dias",
+      "midfielder": "Bruno Fernandes",
+      "attacker": "Cristiano Ronaldo",
+      "breakout": "João Neves"
+    }
+  },
+  {
+    "name": "Colombia",
+    "code": "COL",
+    "flag": "🇨🇴",
+    "group": "K",
+    "fifaRank": 13,
+    "manager": "Nestor Lorenzo",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Luis Díaz",
+      "captain": "James Rodríguez",
+      "breakout": "Richard Ríos",
+      "gem": "Daniel Muñoz",
+      "midfielder": "James Rodríguez",
+      "attacker": "Luis Díaz",
+      "defender": "Daniel Muñoz"
+    }
+  },
+  {
+    "name": "DR Congo",
+    "code": "COD",
+    "flag": "🇨🇩",
+    "group": "K",
+    "fifaRank": 46,
+    "manager": "Sebastien Desabre",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Yoane Wissa",
+      "captain": "Noah Sadiki",
+      "midfielder": "Ngal’ayel Mukau",
+      "breakout": "Ngal’ayel Mukau",
+      "defender": "Aaron Wan-Bissaka",
+      "attacker": "Nathanaël Mbuku",
+      "gem": "Ngal’ayel Mukau"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZB",
+    "flag": "🇺🇿",
+    "group": "K",
+    "fifaRank": 50,
+    "manager": "Fabio Cannavaro",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Abdukodir Khusanov",
+      "defender": "Avazbek Ulmasaliev",
+      "breakout": "Bekhruz Karimov",
+      "midfielder": "Akmal Mozgovoy",
+      "attacker": "Jaloliddin Masharipov",
+      "gem": "Bekhruz Karimov"
+    }
+  },
+  {
+    "name": "England",
+    "code": "ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "group": "L",
+    "fifaRank": 4,
+    "manager": "Thomas Tuchel",
+    "predictedFinish": 1,
+    "badges": {
+      "star": "Jude Bellingham",
+      "captain": "Harry Kane",
+      "breakout": "Nico O’Reilly",
+      "gem": "Morgan Rogers",
+      "defender": "John Stones",
+      "midfielder": "Jude Bellingham",
+      "attacker": "Harry Kane"
+    }
+  },
+  {
+    "name": "Croatia",
+    "code": "CRO",
+    "flag": "🇭🇷",
+    "group": "L",
+    "fifaRank": 11,
+    "manager": "Zlatko Dalic",
+    "predictedFinish": 2,
+    "badges": {
+      "star": "Luka Modric",
+      "captain": "Luka Modric",
+      "breakout": "Luka Vuskovic",
+      "midfielder": "Luka Modric",
+      "defender": "Josip Stanisic",
+      "attacker": "Andrej Kramaric",
+      "gem": "Luka Vuskovic"
+    }
+  },
+  {
+    "name": "Ghana",
+    "code": "GHA",
+    "flag": "🇬🇭",
+    "group": "L",
+    "fifaRank": 74,
+    "manager": "Carlos Queiroz",
+    "predictedFinish": 3,
+    "badges": {
+      "star": "Antoine Semenyo",
+      "breakout": "Kojo Peprah Oppong",
+      "gem": "Caleb Yirenkyi",
+      "attacker": "Iñaki Williams",
+      "captain": "Gideon Mensah",
+      "defender": "Alidu Seidu",
+      "midfielder": "Caleb Yirenkyi"
+    }
+  },
+  {
+    "name": "Panama",
+    "code": "PAN",
+    "flag": "🇵🇦",
+    "group": "L",
+    "fifaRank": 33,
+    "manager": "Thomas Christiansen",
+    "predictedFinish": 4,
+    "badges": {
+      "star": "Alberto Quintero",
+      "captain": "Aníbal Godoy",
+      "midfielder": "Cristian Martínez",
+      "defender": "César Blackman",
+      "attacker": "José Luis Rodríguez"
+    }
+  }
+]
