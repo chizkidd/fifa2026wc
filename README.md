@@ -28,8 +28,7 @@ Everything behind **Part 3** of my [substack](https://chizobao.substack.com) 202
 Per **team**: FIFA rank, group, manager, predicted finish, key fact, fun fact, strengths, weaknesses, and seven badge picks.<br>
 Per **player** (1,248 of them): name, position, club, age, shirt number, full bio + a short bio, photo, the Guardian "special player" epithet, and any badges.
 
-**Badges:** ⭐ Star Player · 🎯 Captain · 🚀 Breakout Kid · 💎 Hidden Gem · 🛡️ Defensive Stalwart · 🎩 Midfield Maestro · ⚽ Attack Machine.<br>
-Marquee names are pinned in `scripts/curated.py → BADGE_OVERRIDES`; the rest are derived automatically from the squad data + epithets.
+**Badges:** ⭐ Star Player · 🎯 Captain · 🚀 Breakout Kid · 💎 Hidden Gem · 🛡️ Defensive Stalwart · 🎩 Midfield Maestro · ⚽ Attack Machine. Marquee names are pinned in `scripts/curated.py → BADGE_OVERRIDES`; the rest are derived automatically from the squad data + epithets.
 
 ### Rebuild it
 
@@ -62,7 +61,7 @@ No environment variables, no server, no build needed.
 
 ## Deliverables map
 
-| You asked for | Where it is |
+| Task | Where it is |
 |---|---|
 | Squads grouped by coach/GK/DEF/MID/FWD, in a usable format | `data/players.csv`, `site/data/wc2026.json` |
 | Interactive site (groups, FIFA rank, team facts, player cards, badges) | `site/` → deploy to Vercel/Netlify |
